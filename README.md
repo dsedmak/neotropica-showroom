@@ -1,48 +1,142 @@
-# Astro Starter Kit: Basics
+# Neotropica Showroom
 
-```sh
-npm create astro@latest -- --template basics
+Welcome to the Neotropica Showroom application! This app is designed to run on tablets in an aquarium showroom, providing visitors with an interactive and informative experience.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Node.js**: Version 18.17.1, 20.3.0, 22.0.0, or higher. Note that versions 19 and 21 are not supported. [Download Node.js](https://nodejs.org/)
+
+- **Package Manager**: npm (comes with Node.js), pnpm, or Yarn.
+
+- **Git**: For version control. [Download Git](https://git-scm.com/)
+
+- **Text Editor**: We recommend [Visual Studio Code](https://code.visualstudio.com/) with the [Official Astro extension](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode).
+
+## Getting Started
+
+Follow these steps to set up the project:
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/dsedmak/neotropica-showroom.git
+   cd neotropica-showroom
+   ```
+
+2. **Install Dependencies**:
+
+   Depending on your preferred package manager, run one of the following commands:
+
+   ```bash
+   # Using npm
+   npm install
+
+   # Using pnpm
+   pnpm install
+
+   # Using Yarn
+   yarn install
+   ```
+
+3. **Start the Development Server**:
+
+   Launch the Astro development server to preview your project:
+
+   ```bash
+   # Using npm
+   npm run dev
+
+   # Using pnpm
+   pnpm run dev
+
+   # Using Yarn
+   yarn dev
+   ```
+
+   The application will be accessible at `http://localhost:3000`.
+
+## Project Structure
+
+The project is organized as follows:
+
+```
+├── README.md
+├── astro.config.mjs
+├── package.json
+├── public
+│   ├── images
+│   └── ...
+└── src
+    ├── components
+    │   └── ...
+    ├── layouts
+    │   └── ...
+    ├── pages
+    │   └── ...
+    ├── styles
+    │   └── ...
+    └── data
+        └── ...
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+- **`astro.config.mjs`**: Astro configuration file.
+- **`public/`**: Static assets like images and fonts.
+- **`src/components/`**: Reusable UI components.
+- **`src/layouts/`**: Layout components.
+- **`src/pages/`**: Application pages.
+- **`src/styles/`**: Global and component-specific styles.
+- **`src/data/`**: Data files (e.g., JSON or YAML) for dynamic content.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Development Workflow
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+To contribute or make changes:
 
-## 🚀 Project Structure
+1. **Create a New Branch**:
 
-Inside of your Astro project, you'll see the following folders and files:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+2. **Make Your Changes**:
+
+   Edit the code using your preferred text editor.
+
+3. **Commit Your Changes**:
+
+   ```bash
+   git add .
+   git commit -m "Add description of your changes"
+   ```
+
+4. **Push to GitHub**:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. **Create a Pull Request**:
+
+   Open a pull request on GitHub to merge your changes into the main branch.
+
+## Building for Production
+
+To prepare the application for production deployment:
+
+```bash
+# Using npm
+npm run build
+
+# Using pnpm
+pnpm run build
+
+# Using Yarn
+yarn build
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+The optimized output will be in the `dist/` directory.
 
-## 🧞 Commands
+## Learn More
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+For more information on Astro, visit the [official Astro documentation](https://docs.astro.build/).
