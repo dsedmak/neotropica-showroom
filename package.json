@@ -1,0 +1,22 @@
+{
+  "name": "neotropica-showroom",
+  "type": "module",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsedmak/neotropica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dsedmak/neotropica/issues"
+  },
+  "homepage": "https://github.com/dsedmak/neotropica#readme",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.2.5"
+  }
+}
