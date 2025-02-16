@@ -1,0 +1,30 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { Image } from 'astro:assets';
+import { getCollection, render } from "astro:content";
+
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const habitats = await getCollection("habitats");
+
+  return habitats.map((habitat) => {
+    const [slug, language] = habitat.id.split("/");
+    return {
+      params: { language, habitat: slug, slug },
+      props: { habitat },
+    };
+  });
+}
+
+// 2. For your template, you can get the entry directly from the prop
+const { habitat } = Astro.props;
+const { Content } = await render(habitat);
+---
+<Layout>
+  <article>
+    <header><h1 style="margin-block-end: 0;">{habitat.data.name}</h1></header>
+    <Image src={habitat.data.cover} alt={habitat.data.name} width={750} />
+    <hr />
+    <Content />
+  </article>
+</Layout>
