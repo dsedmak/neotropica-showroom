@@ -66,7 +66,7 @@ The project is organized as follows:
 ├── astro.config.mjs
 ├── package.json
 ├── public
-│   ├── images
+│   ├── assets
 │   └── ...
 └── src
     ├── components
@@ -82,7 +82,7 @@ The project is organized as follows:
 ```
 
 - **`astro.config.mjs`**: Astro configuration file.
-- **`public/`**: Static assets like images and fonts.
+- **`public/`**: Static assets like assets and fonts.
 - **`src/components/`**: Reusable UI components.
 - **`src/layouts/`**: Layout components.
 - **`src/pages/`**: Application pages.
