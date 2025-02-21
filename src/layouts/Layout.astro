@@ -22,11 +22,14 @@ function getLocalizedPath(locale: string) {
         <title>{title}</title>
     </head>
     <body>
-        <main class="container">
+        <main class="container-fluid">
             <slot />
         </main>
-        <footer class="container-fluid" style="display: flex; justify-content: center; position: sticky; bottom: 0;">
-            <nav>
+        <footer class="container-fluid" style=" position: sticky; bottom: 0; background-color: var(--pico-background-color)">
+            {!Astro.url.pathname.endsWith('/') && 
+                <a href="./"><button style="width: 100%;">Back</button></a>
+            }
+            <nav style="display: flex; justify-content: center;">
                 <ul>
                     <li><a href={getLocalizedPath('si')}><SlovenianFlagImage width="100" /></a></li>
                     <li><a href={getLocalizedPath('en')}><EnglishFlagImage width="100" /></a></li>
@@ -34,6 +37,6 @@ function getLocalizedPath(locale: string) {
                     <li><a href={getLocalizedPath('it')}><ItalianFlagImage width="100" /></a></li>
                 </ul>
             </nav>
-        </footer></body
-    >
+        </footer>
+    </body>
 </html>

@@ -20,18 +20,18 @@ const { habitat } = Astro.props;
 const inhabitants = await getCollection("inhabitants", ({data: {habitat: {id}}}) => id === habitat.id);
 ---
 
-<Layout>
+<Layout title={habitat.data.name}>
   <a href="./about">
     <article>
-      <header>{habitat.data.name}</header>
-      <Image src={habitat.data.cover} alt={habitat.data.name} width={750} loading="eager" />
+      <header><h3 style="margin-block-end: 0;">{habitat.data.name}</h3 ></header>
+      <Image src={habitat.data.cover} alt={habitat.data.name} width={650} style="width: 100%" loading="eager" />
     </article>
   </a>
   { inhabitants.map((inhabitant, index) => (
     <a href={`./${inhabitant.id.split("/")[0]}`}>
       <article>
-        <header>{ inhabitant.data.common_name } ({ inhabitant.data.latin_name })</header>
-        <Image src={inhabitant.data.cover} alt={inhabitant.data.common_name} width={750} loading={index < 1 ? 'eager' : 'lazy'} />
+        <header><h3 style="margin-block-end: 0;">{ inhabitant.data.common_name } ({ inhabitant.data.latin_name })</h3></header>
+        <Image src={inhabitant.data.cover} alt={inhabitant.data.common_name} width={650} style="width: 100%" loading={index < 1 ? 'eager' : 'lazy'} />
       </article>
     </a>
   ))}

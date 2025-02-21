@@ -21,7 +21,7 @@ const { inhabitant } = Astro.props;
 const { Content } = await render(inhabitant);
 ---
 
-<Layout>
+<Layout title={inhabitant.data.common_name}>
   <article>
     <header>
       <hgroup style="margin-block-end: 0;">
@@ -29,7 +29,7 @@ const { Content } = await render(inhabitant);
         <h2>{inhabitant.data.latin_name}</h2>
       </hgroup>
     </header>
-    <Image src={inhabitant.data.cover} alt={inhabitant.data.common_name} width={750} />
+    <Image src={inhabitant.data.cover} alt={inhabitant.data.common_name} width={650} style="width: 100%" />
     <hr />
     <Content />
   </article>
