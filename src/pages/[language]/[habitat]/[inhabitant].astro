@@ -1,14 +1,14 @@
 ---
-import Layout from "../../../layouts/Layout.astro";
+import Layout from '../../../layouts/Layout.astro';
 import { Image } from 'astro:assets';
-import { getCollection, render } from "astro:content";
+import { getCollection, render } from 'astro:content';
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
-  const inhabitants = await getCollection("inhabitants");
+  const inhabitants = await getCollection('inhabitants');
   return inhabitants.map((inhabitant) => {
-    const [inhabitantSlug, language] = inhabitant.id.split("/");
-    const [habitatSlug] = inhabitant.data.habitat.id.split("/");
+    const [inhabitantSlug, language] = inhabitant.id.split('/');
+    const [habitatSlug] = inhabitant.data.habitat.id.split('/');
     return {
       params: { language, inhabitant: inhabitantSlug, habitat: habitatSlug, slug: inhabitantSlug },
       props: { inhabitant },
@@ -21,15 +21,15 @@ const { inhabitant } = Astro.props;
 const { Content } = await render(inhabitant);
 ---
 
-<Layout title={inhabitant.data.common_name}>
+<Layout title={inhabitant.data.common_name} showBackButton>
   <article>
     <header>
-      <hgroup style="margin-block-end: 0;">
+      <hgroup style='margin-block-end: 0;'>
         <h1>{inhabitant.data.common_name}</h1>
         <h2>{inhabitant.data.latin_name}</h2>
       </hgroup>
     </header>
-    <Image src={inhabitant.data.cover} alt={inhabitant.data.common_name} width={650} style="width: 100%" />
+    <Image src={inhabitant.data.cover} alt={inhabitant.data.common_name} width={650} style='width: 100%' />
     <hr />
     <Content />
   </article>

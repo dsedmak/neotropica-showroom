@@ -1,11 +1,17 @@
 ---
-import "../styles/pico.slate.css";
-import SlovenianFlagImage from "../assets/flags/si.svg";
-import EnglishFlagImage from "../assets/flags/uk.svg";
-import GermanFlagImage from "../assets/flags/de.svg";
-import ItalianFlagImage from "../assets/flags/it.svg";
+import '../styles/pico.slate.css';
+import SlovenianFlagImage from '../assets/flags/si.svg';
+import EnglishFlagImage from '../assets/flags/uk.svg';
+import GermanFlagImage from '../assets/flags/de.svg';
+import ItalianFlagImage from '../assets/flags/it.svg';
 
-const { title } = Astro.props;
+
+export interface Props {
+	title: string;
+    showBackButton?: boolean;
+}
+
+const { title, showBackButton } = Astro.props as Props;
 
 function getLocalizedPath(locale: string) {
   return Astro.url.pathname.replace(`/${Astro.currentLocale}/`, `/${locale}/`);
@@ -15,26 +21,25 @@ function getLocalizedPath(locale: string) {
 <!doctype html>
 <html lang={Astro.currentLocale}>
     <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <meta name="generator" content={Astro.generator} />
+        <meta charset='UTF-8' />
+        <meta name='viewport' content='width=device-width' />
+        <meta name='generator' content={Astro.generator} />
         <title>{title}</title>
     </head>
     <body>
-        <main class="container-fluid">
+        <main class='container-fluid'>
             <slot />
         </main>
-        <footer class="container-fluid" style=" position: sticky; bottom: 0; background-color: var(--pico-background-color)">
-            {!Astro.url.pathname.endsWith('/') && 
-                <a href="./"><button style="width: 100%;">Back</button></a>
+        <footer class='container-fluid' style=' position: sticky; bottom: 0; background-color: var(--pico-background-color)'>
+            {showBackButton && 
+                <a href='./'><button style='width: 100%;'>Back</button></a>
             }
-            <nav style="display: flex; justify-content: center;">
+            <nav style='display: flex; justify-content: center;'>
                 <ul>
-                    <li><a href={getLocalizedPath('si')}><SlovenianFlagImage width="100" /></a></li>
-                    <li><a href={getLocalizedPath('en')}><EnglishFlagImage width="100" /></a></li>
-                    <li><a href={getLocalizedPath('de')}><GermanFlagImage width="100" /></a></li>
-                    <li><a href={getLocalizedPath('it')}><ItalianFlagImage width="100" /></a></li>
+                    <li><a href={getLocalizedPath('si')}><SlovenianFlagImage width='100' /></a></li>
+                    <li><a href={getLocalizedPath('en')}><EnglishFlagImage width='100' /></a></li>
+                    <li><a href={getLocalizedPath('de')}><GermanFlagImage width='100' /></a></li>
+                    <li><a href={getLocalizedPath('it')}><ItalianFlagImage width='100' /></a></li>
                 </ul>
             </nav>
         </footer>
