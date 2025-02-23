@@ -1,5 +1,6 @@
 ---
 import '../styles/pico.slate.css';
+import { Image } from 'astro:assets';
 import SlovenianFlagImage from '../assets/flags/si.svg';
 import EnglishFlagImage from '../assets/flags/uk.svg';
 import GermanFlagImage from '../assets/flags/de.svg';
@@ -7,10 +8,9 @@ import ItalianFlagImage from '../assets/flags/it.svg';
 import { pwaInfo } from 'virtual:pwa-info';
 import { pwaAssetsHead } from 'virtual:pwa-assets/head';
 
-
 export interface Props {
-	title: string;
-    showBackButton?: boolean;
+  title: string;
+  showBackButton?: boolean;
 }
 
 const { title, showBackButton } = Astro.props as Props;
@@ -22,34 +22,54 @@ function getLocalizedPath(locale: string) {
 
 <!doctype html>
 <html lang={Astro.currentLocale}>
-    <head>
-        <meta charset='UTF-8' />
-        <meta name='viewport' content='width=device-width' />
-        <meta name='generator' content={Astro.generator} />
-        <title>{title}</title>
-        { pwaAssetsHead.themeColor && <meta name='theme-color' content={pwaAssetsHead.themeColor.content} /> }
-        { pwaAssetsHead.links.map(link => (
-            <link {...link} />
-        ))}
-        { pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} /> }
-        <script src='/src/pwa.ts'></script>
-    </head>
-    <body>
-        <main class='container-fluid'>
-            <slot />
-        </main>
-        <footer class='container-fluid' style=' position: sticky; bottom: 0; background-color: var(--pico-background-color)'>
-            {showBackButton && 
-                <a href='./'><button style='width: 100%;'>Back</button></a>
-            }
-            <nav style='display: flex; justify-content: center;'>
-                <ul>
-                    <li><a href={getLocalizedPath('si')}><SlovenianFlagImage width='100' /></a></li>
-                    <li><a href={getLocalizedPath('en')}><EnglishFlagImage width='100' /></a></li>
-                    <li><a href={getLocalizedPath('de')}><GermanFlagImage width='100' /></a></li>
-                    <li><a href={getLocalizedPath('it')}><ItalianFlagImage width='100' /></a></li>
-                </ul>
-            </nav>
-        </footer>
-    </body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    {pwaAssetsHead.themeColor && <meta name="theme-color" content={pwaAssetsHead.themeColor.content} />}
+    {pwaAssetsHead.links.map((link) => <link {...link} />)}
+    {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
+    <script src="/src/pwa.ts"></script>
+  </head>
+  <body>
+    <main class="container-fluid">
+      <slot />
+    </main>
+    <style>
+      footer {
+        position: sticky;
+        bottom: 0;
+        background-color: var(--pico-background-color);
+      }
+      nav > ul {
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+      }
+      nav li {
+        width: min(200px, 20%);
+      }
+      nav img {
+        width: 100%;
+      }
+    </style>
+    <footer class="container-fluid">
+      {
+        showBackButton && (
+          <a href="./">
+            <button style="width: 100%;">Back</button>
+          </a>
+        )
+      }
+      <nav>
+        <ul>
+          <li><a href={getLocalizedPath('si')}><Image src={SlovenianFlagImage} alt="Slovenian Flag" width={100} /></a></li>
+          <li><a href={getLocalizedPath('en')}><Image src={EnglishFlagImage} alt="English Flag" width={100} /></a></li>
+          <li><a href={getLocalizedPath('de')}><Image src={GermanFlagImage} alt="German Flag" width={100} /></a></li>
+          <li><a href={getLocalizedPath('it')}><Image src={ItalianFlagImage} alt="Italian Flag" width={100} /></a></li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
 </html>

@@ -82,7 +82,7 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "_astro/_inhabitant_.CdULEFwn.css",
+    "url": "_astro/_inhabitant_.CvGgkRqL.css",
     "revision": null
   }, {
     "url": "_astro/apteronotus-albifrons.yWH96smL_2kjy2v.webp",
@@ -112,10 +112,10 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "url": "_astro/copella-arnoldi.kUkWBs57.webp",
     "revision": null
   }, {
-    "url": "_astro/de.X1CKQ2hZ.svg",
+    "url": "_astro/de.X1CKQ2hZ_Z183WHN.svg",
     "revision": null
   }, {
-    "url": "_astro/it.Cuc9d1HD.svg",
+    "url": "_astro/it.Cuc9d1HD_qxNEL.svg",
     "revision": null
   }, {
     "url": "_astro/Layout.astro_astro_type_script_index_0_lang.DnIm7xSb.js",
@@ -127,10 +127,10 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "url": "_astro/mangrove-trees.BCj_Iffw.jpg",
     "revision": null
   }, {
-    "url": "_astro/si.CP_nfZEa.svg",
+    "url": "_astro/si.CP_nfZEa_Z1dbIkM.svg",
     "revision": null
   }, {
-    "url": "_astro/uk.BxCTwkF-.svg",
+    "url": "_astro/uk.BxCTwkF-_Z22vaqk.svg",
     "revision": null
   }, {
     "url": "_astro/workbox-window.prod.es5.B9K5rw8f.js",
@@ -140,19 +140,19 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "65d56d5f3219293fe60c960c88919bf2"
   }, {
     "url": "en/mangrove-forest/about/index.html",
-    "revision": "b7cf9889856044a7c544c3bb8f9b0a6a"
+    "revision": "473e45261528c19bdd2a61393aad0395"
   }, {
     "url": "en/mangrove-forest/apteronotus-albifrons/index.html",
-    "revision": "a26ce425a571c0f61b82fa992cd8197e"
+    "revision": "9e4ef8eed02338c43165cfca6204f010"
   }, {
     "url": "en/mangrove-forest/arapaima-gigas/index.html",
-    "revision": "f1460cd27a6ccb840594b283a9e362ee"
+    "revision": "387a356637751842c03bc7ed3288ed32"
   }, {
     "url": "en/mangrove-forest/copella-arnoldi/index.html",
-    "revision": "1528b6c1a55bf3c2435b69b5387b1d74"
+    "revision": "13f0699102530200fd97f7edad3c8251"
   }, {
     "url": "en/mangrove-forest/index.html",
-    "revision": "809e078334452ba39df73b904966426e"
+    "revision": "50961f44592b2763d587d6bd6f3c7e9c"
   }, {
     "url": "favicon.ico",
     "revision": "b436410976f5d1e3d19afd9d7cfc3767"
@@ -172,19 +172,19 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "url": "pwa-64x64.png",
     "revision": "d6958e884e9fc30ef3e62d68592456f8"
   }, {
-    "revision": "b7cf9889856044a7c544c3bb8f9b0a6a",
+    "revision": "473e45261528c19bdd2a61393aad0395",
     "url": "en/mangrove-forest/about"
   }, {
-    "revision": "a26ce425a571c0f61b82fa992cd8197e",
+    "revision": "9e4ef8eed02338c43165cfca6204f010",
     "url": "en/mangrove-forest/apteronotus-albifrons"
   }, {
-    "revision": "f1460cd27a6ccb840594b283a9e362ee",
+    "revision": "387a356637751842c03bc7ed3288ed32",
     "url": "en/mangrove-forest/arapaima-gigas"
   }, {
-    "revision": "1528b6c1a55bf3c2435b69b5387b1d74",
+    "revision": "13f0699102530200fd97f7edad3c8251",
     "url": "en/mangrove-forest/copella-arnoldi"
   }, {
-    "revision": "809e078334452ba39df73b904966426e",
+    "revision": "50961f44592b2763d587d6bd6f3c7e9c",
     "url": "en/mangrove-forest"
   }, {
     "url": "manifest.webmanifest",
