@@ -140,19 +140,19 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "65d56d5f3219293fe60c960c88919bf2"
   }, {
     "url": "en/mangrove-forest/about/index.html",
-    "revision": "473e45261528c19bdd2a61393aad0395"
+    "revision": "72dc55ccdf00dd5608f211ca8b9902e2"
   }, {
     "url": "en/mangrove-forest/apteronotus-albifrons/index.html",
-    "revision": "9e4ef8eed02338c43165cfca6204f010"
+    "revision": "e133b88db24db99cb0f360c3f7d87f2e"
   }, {
     "url": "en/mangrove-forest/arapaima-gigas/index.html",
-    "revision": "387a356637751842c03bc7ed3288ed32"
+    "revision": "aa3f6b65d7844d2c4de5a8978f920e3f"
   }, {
     "url": "en/mangrove-forest/copella-arnoldi/index.html",
-    "revision": "13f0699102530200fd97f7edad3c8251"
+    "revision": "a7d8d7b9a1907af603100def5c0d3538"
   }, {
     "url": "en/mangrove-forest/index.html",
-    "revision": "50961f44592b2763d587d6bd6f3c7e9c"
+    "revision": "6835675c28fec5823dfe83a996bd5b72"
   }, {
     "url": "favicon.ico",
     "revision": "b436410976f5d1e3d19afd9d7cfc3767"
@@ -172,20 +172,20 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "url": "pwa-64x64.png",
     "revision": "d6958e884e9fc30ef3e62d68592456f8"
   }, {
-    "revision": "473e45261528c19bdd2a61393aad0395",
-    "url": "en/mangrove-forest/about"
+    "revision": "72dc55ccdf00dd5608f211ca8b9902e2",
+    "url": "en/mangrove-forest/about/"
   }, {
-    "revision": "9e4ef8eed02338c43165cfca6204f010",
-    "url": "en/mangrove-forest/apteronotus-albifrons"
+    "revision": "e133b88db24db99cb0f360c3f7d87f2e",
+    "url": "en/mangrove-forest/apteronotus-albifrons/"
   }, {
-    "revision": "387a356637751842c03bc7ed3288ed32",
-    "url": "en/mangrove-forest/arapaima-gigas"
+    "revision": "aa3f6b65d7844d2c4de5a8978f920e3f",
+    "url": "en/mangrove-forest/arapaima-gigas/"
   }, {
-    "revision": "13f0699102530200fd97f7edad3c8251",
-    "url": "en/mangrove-forest/copella-arnoldi"
+    "revision": "a7d8d7b9a1907af603100def5c0d3538",
+    "url": "en/mangrove-forest/copella-arnoldi/"
   }, {
-    "revision": "50961f44592b2763d587d6bd6f3c7e9c",
-    "url": "en/mangrove-forest"
+    "revision": "6835675c28fec5823dfe83a996bd5b72",
+    "url": "en/mangrove-forest/"
   }, {
     "url": "manifest.webmanifest",
     "revision": "d80cdcffb57b3f47fb75e6131beafdc2"
