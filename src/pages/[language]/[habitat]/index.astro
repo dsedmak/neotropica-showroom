@@ -21,7 +21,7 @@ const inhabitants = await getCollection('inhabitants', ({data: {habitat: {id}}})
 ---
 
 <Layout title={habitat.data.name}>
-  <a href='./about'>
+  <a href='./about/'>
     <article>
       <header><h1 style='margin-block-end: 0;'>{habitat.data.name}</h1></header>
       <Image src={habitat.data.cover} alt={habitat.data.name} width={650} loading='eager' />
@@ -51,7 +51,7 @@ const inhabitants = await getCollection('inhabitants', ({data: {habitat: {id}}})
   </style>
   <div class='inhabitants-list'>
     { inhabitants.map((inhabitant, index) => (
-      <a href={`./${inhabitant.id.split('/')[0]}`}>
+      <a href={`./${inhabitant.id.split('/')[0]}/`}>
         <article>
           <header>
             <hgroup>
