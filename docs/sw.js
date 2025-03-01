@@ -140,19 +140,19 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "65d56d5f3219293fe60c960c88919bf2"
   }, {
     "url": "en/mangrove-forest/about/index.html",
-    "revision": "72dc55ccdf00dd5608f211ca8b9902e2"
+    "revision": "3449c73297fa08ce10dcaf0c3c6a893c"
   }, {
     "url": "en/mangrove-forest/apteronotus-albifrons/index.html",
-    "revision": "e133b88db24db99cb0f360c3f7d87f2e"
+    "revision": "e9bd95bbc71f011e75b9e0a69bf39d71"
   }, {
     "url": "en/mangrove-forest/arapaima-gigas/index.html",
-    "revision": "aa3f6b65d7844d2c4de5a8978f920e3f"
+    "revision": "5a6fad0e5b06df376e15a0a240b2e5b7"
   }, {
     "url": "en/mangrove-forest/copella-arnoldi/index.html",
-    "revision": "a7d8d7b9a1907af603100def5c0d3538"
+    "revision": "64faba1ea0a90045776786f58f1fb9b1"
   }, {
     "url": "en/mangrove-forest/index.html",
-    "revision": "6835675c28fec5823dfe83a996bd5b72"
+    "revision": "c03cf6c4f03c5d9ce06caab91c548296"
   }, {
     "url": "favicon.ico",
     "revision": "b436410976f5d1e3d19afd9d7cfc3767"
@@ -172,19 +172,19 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "url": "pwa-64x64.png",
     "revision": "d6958e884e9fc30ef3e62d68592456f8"
   }, {
-    "revision": "72dc55ccdf00dd5608f211ca8b9902e2",
+    "revision": "3449c73297fa08ce10dcaf0c3c6a893c",
     "url": "en/mangrove-forest/about/"
   }, {
-    "revision": "e133b88db24db99cb0f360c3f7d87f2e",
+    "revision": "e9bd95bbc71f011e75b9e0a69bf39d71",
     "url": "en/mangrove-forest/apteronotus-albifrons/"
   }, {
-    "revision": "aa3f6b65d7844d2c4de5a8978f920e3f",
+    "revision": "5a6fad0e5b06df376e15a0a240b2e5b7",
     "url": "en/mangrove-forest/arapaima-gigas/"
   }, {
-    "revision": "a7d8d7b9a1907af603100def5c0d3538",
+    "revision": "64faba1ea0a90045776786f58f1fb9b1",
     "url": "en/mangrove-forest/copella-arnoldi/"
   }, {
-    "revision": "6835675c28fec5823dfe83a996bd5b72",
+    "revision": "c03cf6c4f03c5d9ce06caab91c548296",
     "url": "en/mangrove-forest/"
   }, {
     "url": "manifest.webmanifest",
