@@ -1,6 +1,6 @@
 ---
-name: Mangrove Forest
-cover: ../../../assets/mangrove-trees.jpg
+name: Peru Stream
+cover: ../../../assets/Habitati/peru stream/peru MEME.jpg
 ---
 ## Overview
 Mangrove forests are coastal ecosystems found in tropical and subtropical regions. They are characterized by salt-tolerant trees and plants that thrive in intertidal zones, where they play a crucial role in coastal protection and biodiversity support.

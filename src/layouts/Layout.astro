@@ -3,8 +3,6 @@ import '../styles/pico.slate.css';
 import { Image } from 'astro:assets';
 import SlovenianFlagImage from '../assets/flags/si.svg';
 import EnglishFlagImage from '../assets/flags/uk.svg';
-import GermanFlagImage from '../assets/flags/de.svg';
-import ItalianFlagImage from '../assets/flags/it.svg';
 import { pwaInfo } from 'virtual:pwa-info';
 import { pwaAssetsHead } from 'virtual:pwa-assets/head';
 
@@ -66,8 +64,6 @@ function getLocalizedPath(locale: string) {
         <ul>
           <li><a href={getLocalizedPath('si')}><Image src={SlovenianFlagImage} alt="Slovenian Flag" width={100} /></a></li>
           <li><a href={getLocalizedPath('en')}><Image src={EnglishFlagImage} alt="English Flag" width={100} /></a></li>
-          <li><a href={getLocalizedPath('de')}><Image src={GermanFlagImage} alt="German Flag" width={100} /></a></li>
-          <li><a href={getLocalizedPath('it')}><Image src={ItalianFlagImage} alt="Italian Flag" width={100} /></a></li>
         </ul>
       </nav>
     </footer>
