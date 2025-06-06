@@ -10,8 +10,7 @@ export default defineConfig({
   integrations: [
     AstroPWA({
       base: import.meta.env.PROD ? '/neotropica-showroom/' : '/',
-      // @ts-expect-error
-      mode: import.meta.env.MODE,
+      mode: import.meta.env.DEV ? 'development' : 'production',
       registerType: 'autoUpdate',
       injectRegister: false,
 
