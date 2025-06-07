@@ -12,7 +12,7 @@
   "homepage": "https://github.com/dsedmak/neotropica#readme",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && touch docs/.nojekyll",
+    "build": "astro build && type nul > docs/.nojekyll",
     "preview": "astro preview",
     "astro": "astro"
   },

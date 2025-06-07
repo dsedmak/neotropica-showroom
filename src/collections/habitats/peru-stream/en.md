@@ -1,34 +1,34 @@
 ---
 name: Peru Stream
-cover: ../../../assets/mangrove-trees.jpg
+cover: ../../../assets/Habitati/peru-stream/potocek.jpg
 ---
 ## Overview
-Mangrove forests are coastal ecosystems found in tropical and subtropical regions. They are characterized by salt-tolerant trees and plants that thrive in intertidal zones, where they play a crucial role in coastal protection and biodiversity support.
+The sources of the Amazon River are located high in the Peruvian Andes, where mountain streams begin their journey, eventually joining the largest river system in the world. These pristine high-altitude waters are crucial for the ecology and hydrology of the Amazon basin.
 
 ## Key Characteristics
-- **Location:** Found along tropical and subtropical coastlines, estuaries, and river deltas.
-- **Vegetation:** Dominated by mangrove tree species such as *Rhizophora*, *Avicennia*, and *Sonneratia*.
-- **Water Conditions:** Brackish to saline waters, influenced by tidal fluctuations.
-- **Soil Type:** Waterlogged, anoxic, and rich in organic matter.
-- **Climate:** Warm temperatures with high humidity and seasonal rainfall.
+- **Location:** Eastern slopes of the Andes in southern Peru; main tributaries include the Apurímac, Mantaro, and Marañón rivers.
+- **Altitude:** The source is located above 5,000 meters above sea level.
+- **Water Conditions:** Clear, cold, fast-flowing water with high oxygen content.
+- **Geography:** Narrow valleys, steep slopes, and rocky riverbeds shaped by glacial and tectonic activity.
+- **Climate:** Tropical highland – cooler temperatures with pronounced wet seasons.
 
 ## Ecological Importance
-- **Coastal Protection:** Acts as a buffer against storm surges, erosion, and tsunamis.
-- **Carbon Sequestration:** Stores large amounts of carbon in biomass and sediments.
-- **Habitat and Biodiversity:** Supports a diverse range of marine and terrestrial species, including fish, crabs, mollusks, birds, and mammals.
-- **Nursery Grounds:** Provides breeding and nursery habitats for many commercially important fish species.
+- **Hydrological Source:** Feeds the Amazon river system with fresh water and sediments.
+- **Unique Biodiversity:** Home to endemic species of fish, amphibians, and aquatic invertebrates adapted to cold, oxygen-rich water.
+- **Ecosystem Connectivity:** Links Andean highlands with lowland Amazonian forests, facilitating species migration and nutrient flow.
+- **Cultural Significance:** Sacred landscape for many indigenous communities; central to their origin myths and traditional ecological knowledge.
 
 ## Threats
-- **Deforestation:** Due to coastal development, aquaculture, and agriculture.
-- **Pollution:** Industrial waste, oil spills, and plastic debris harm the ecosystem.
-- **Climate Change:** Rising sea levels and temperature shifts threaten mangrove survival.
-- **Overharvesting:** Unsustainable exploitation of mangrove wood for fuel and construction.
+- **Deforestation:** Logging and agriculture reduce forest cover, increasing erosion and river sedimentation.
+- **Mining:** Gold and mineral extraction pollutes water sources and destroys river habitats.
+- **Infrastructure Projects:** Dams, roads, and hydroelectric plants alter natural river flow and fragment habitats.
+- **Climate Change:** Glacier retreat and changes in rainfall patterns threaten long-term water supply.
 
 ## Conservation Efforts
-- **Protected Areas:** Establishing reserves and national parks to safeguard mangrove forests.
-- **Reforestation Projects:** Planting mangrove seedlings to restore degraded areas.
-- **Community Involvement:** Encouraging local participation in conservation programs.
-- **Policy and Legislation:** Enforcing laws to regulate coastal development and pollution control.
+- **Protected Areas:** Numerous national parks and reserves safeguard the upper Amazon basin (e.g., Manu National Park).
+- **Scientific Research:** Hydrological and ecological studies monitor changes and guide protection efforts.
+- **Indigenous Conservation:** Support for indigenous rights and traditional environmental stewardship.
+- **Legislative Measures:** National and international initiatives regulate mining, deforestation, and infrastructure development.
 
 ## Conclusion
-Mangrove forests are vital ecosystems that support coastal resilience and biodiversity. Protecting and restoring these unique habitats is essential for sustaining marine life, mitigating climate change, and safeguarding coastal communities.
+The high-altitude streams of southern Peru that form the source of the Amazon are vital ecosystems of global importance. Protecting them preserves not only life throughout the Amazon basin but also the ancient landscapes and cultures that depend on them.

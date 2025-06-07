@@ -27,7 +27,7 @@ export default defineConfig({
         theme_color: '#13171f',
         background_color: '#13171f',
         display: 'standalone',
-        start_url: 'en/mangrove-forest/',
+        start_url: '/neotropica-showroom/si/blackwater'
       },
 
       workbox: {
