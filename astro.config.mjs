@@ -26,7 +26,7 @@ export default defineConfig({
           'Welcome to the Neotropica Showroom application! This app is designed to run on tablets in an aquarium showroom, providing visitors with an interactive and informative experience.',
         theme_color: '#13171f',
         background_color: '#13171f',
-        display: 'browser',
+        display: 'standalone',
         start_url: '/neotropica-showroom/si/predator-lagoon/'
       },
 
