@@ -16,5 +16,7 @@ habitat: predator-lagoon/si
 
 **Zanimivosti:**
 - Mlade in odrasle ribe imajo popolnoma različne barvne vzorce.
+![Baby emperor](../../../assets/Habitati/predator-lagoon/baby-emperator.jpg)
+
 - Odrasli imajo izrazite modre in rumene proge – eden najlepših angelov.
 - Zelo teritorialna riba, pogosto živi sama ali v parih.

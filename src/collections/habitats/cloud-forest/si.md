@@ -1,5 +1,5 @@
 ---
-name: Gozdovi v oblakih
+name: Oblačni gozd
 cover: ../../../assets/Habitati/cloud-forest/cloud-forest.jpg
 ---
 ## Pregled
