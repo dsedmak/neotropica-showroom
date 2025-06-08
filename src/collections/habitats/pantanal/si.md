@@ -14,7 +14,7 @@ Pantanal je največje tropsko močvirje na svetu, ki se razprostira po Braziliji
 
 ## Ekološki pomen
 - **Žarišče biotske raznovrstnosti:** Dom več kot 4.700 vrst rastlin in živali, med njimi jaguarji, kapibare, kajmani, orjaške vidre in stotine vrst ptic.
-- **Naravno čiščenje vode:** Deluje kot naravni filter, ki izboljšuje kakovost vode dolvodno.
+- **Naravno čiščenje vode:** Deluje kot naravni filter, ki izboljšuje kakovost vode.
 - **Uravnavanje poplav:** V deževnem obdobju absorbira presežek vode in zmanjšuje tveganje za poplave v okoliških območjih.
 - **Pogrezališče ogljika:** Shranjuje ogljik v vegetaciji in mokriščnih tleh ter pomaga pri blaženju podnebnih sprememb.
 

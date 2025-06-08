@@ -13,7 +13,7 @@ The Orinoco River is one of the longest rivers in South America, flowing through
 - **Vegetation:** Riparian forests, flooded savannas, and dense tropical rainforest surrounding the riverbanks.
 
 ## Ecological Importance
-- **Biodiversity Hotspot:** Home to Amazon river dolphins, giant otters, anacondas, caimans, and many fish species including the famous Arapaima.
+- **Biodiversity Hotspot:** Home to Amazon river dolphins, giant otters, anacondas, caimans, and many fish species.
 - **Nursery Grounds:** Flooded forests and wetlands serve as breeding and nursery areas for fish and aquatic invertebrates.
 - **Carbon Storage:** The surrounding forests and wetlands sequester large amounts of carbon.
 - **Water Regulation:** The river and its floodplains play a crucial role in regional water cycles and nutrient distribution.

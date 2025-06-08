@@ -3,7 +3,7 @@ name: Peru Stream
 cover: ../../../assets/Habitati/peru-stream/potocek.jpg
 ---
 ## Pregled
-Izviri reke Amazonke se nahajajo visoko v perujski Andih, kjer gorske reke začno svojo pot, ki se nato združi v največji rečni sistem na svetu. Te neokrnjene visokogorske vode so ključne za ekologijo in hidrologijo amazonskega bazena.
+Izviri reke Amazonke se nahajajo visoko v perujski Andih, kjer gorske reke začno svojo pot, ki se nato združijo v največji rečni sistem na svetu. Te neokrnjene visokogorske vode so ključne za ekologijo in hidrologijo amazonskega porečja.
 
 ## Ključne značilnosti
 - **Lega:** Vzhodna pobočja Andov v južnem Peruju; glavni pritoki vključujejo reke Apurímac, Mantaro in Marañón.

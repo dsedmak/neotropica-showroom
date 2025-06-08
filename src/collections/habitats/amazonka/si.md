@@ -3,17 +3,17 @@ name: Reka Amazonka
 cover: ../../../assets/Habitati/amazonka/amazonka.jpg
 ---
 ## Pregled
-Reka Amazonka je največja reka na svetu po količini izteka vode in ena najdaljših rek na Zemlji. Teče skozi srce amazonskega deževnega gozda in ustvarja izjemno bogat in raznolik sladkovodni ekosistem. Reka in njena ogromna porečja nudita ključne habitate za nešteto vrst in podpirata preživetje številnih domorodnih in lokalnih skupnosti.
+Reka Amazonka je največja reka na svetu po količini izteka vode in ena najdaljših rek na Zemlji. Teče skozi srce amazonskega deževnega gozda in ustvarja izjemno bogat in raznolik sladkovodni ekosistem. Reka in njena ogromna porečja nudijo ključne habitate za nešteto vrst in podpirajo preživetje številnih domorodnih in lokalnih skupnosti.
 
 ## Ključne značilnosti
-- **Lega:** Severna Južna Amerika – predvsem Brazilija, Peru, Kolumbija in še več držav.
+- **Lega:** Severna Južna Amerika – predvsem Brazilija, Peru, Kolumbija.
 - **Rečni sistem:** Vključuje glavno reko, na tisoče pritokov, poplavna območja in obsežna mokrišča.
 - **Vodna stanja:** Sladkovodna z letnimi nihaji, ki jih povzročajo obilne padavine in poplavljanja.
 - **Podnebje:** Tropsko, vroče in vlažno skozi vse leto, z izrazitimi deževnimi in sušnimi obdobji.
 - **Rastlinstvo:** Gost deževni gozd ob rečnih bregovih ter vodne rastline in poplavljeni gozdovi na poplavnih ravnicah.
 
 ## Ekološki pomen
-- **Žarišče biodiverzitete:** Dom številnim vodnim in kopenskim vrstam, vključno z roza rečnimi delfini, piranjami, anakondami, kajmani, velikimi vidrami in neštetimi vrstami rib.
+- **Žarišče biodiverzitete:** Dom številnim vodnim in kopenskim vrstam, vključno z rožnatimi rečnimi delfini, piranjami, anakondami, kajmani, velikimi vidrami in neštetimi vrstami rib.
 - **Vzgojni prostori:** Poplavljeni gozdovi in območja várzea (sezonsko poplavljena območja) služijo kot legla in vzgojni habitat mnogih rib in vodnih živali.
 - **Shranjevanje ogljika:** Okoliški deževni gozd je velik rezervoar ogljika, ki pomaga uravnavati svetovno podnebje.
 - **Vodna bilanca:** Reka igra ključno vlogo v regionalnem in globalnem vodnem ciklu skozi izhlapevanje, padavine in pretok vode.

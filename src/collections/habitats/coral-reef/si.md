@@ -3,10 +3,10 @@ name: Koralni greben
 cover: ../../../assets/Habitati/coral-reef/koralni-greben.jpg
 ---
 ## Pregled
-Koralni grebeni so raznoliki morski ekosistemi, ki jih gradijo kolonije majhnih koralnih živali, ki izločajo kalcijev karbonat. Najdemo jih v toplih, plitvih oceanih, kjer spadajo med najbolj biotsko raznovrstna in produktivna okolja na Zemlji.
+Koralni grebeni so raznoliki morski ekosistemi, ki jih gradijo koralne kolonije, ki izločajo kalcijev karbonat. Najdemo jih v toplih, plitvih oceanih, kjer spadajo med najbolj biotsko raznovrstna in produktivna okolja na Zemlji.
 
 ## Ključne značilnosti
-- **Lega:** Tropski in subtropski oceani, predvsem med 30°S in 30°N – med najbolj znanimi so Veliki koralni greben, Koralni trikotnik in karibski grebeni.
+- **Lega:** Tropski in subtropski oceani – med najbolj znanimi so Veliki koralni greben, Koralni trikotnik in karibski grebeni.
 - **Zgradba:** Zgrajeni iz trdih koral (Scleractinia), ki ustvarjajo kompleksna tridimenzionalna zavetja.
 - **Vodne razmere:** Čista, topla (23–29 °C), plitva voda z malo hranili.
 - **Simbioza:** Koralni organizmi živijo v sožitju z zooksantelami (fotosintetskimi algami v koralnih tkivih), ki jim zagotavljajo energijo.

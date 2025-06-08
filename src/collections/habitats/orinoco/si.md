@@ -3,17 +3,17 @@ name: Orinoko
 cover: ../../../assets/Habitati/orinoco/orinoco.jpg
 ---
 ## Pregled
-Reka Orinoko je ena najdaljših rek v Južni Ameriki, ki teče skozi Venezuelu in Kolumbijo. Ustvarja obsežen in kompleksen sladkovodni ekosistem, ki podpira bogato raznolikost vodnega in kopenskega življenja. Reka vključuje poplavna območja, močvirja in tropske gozdove, kar predstavlja ključni habitat za številne vrste.
+Reka Orinoko je ena najdaljših rek v Južni Ameriki, ki teče skozi Venezuelo in Kolumbijo. Ustvarja obsežen in kompleksen sladkovodni ekosistem, ki podpira bogato raznolikost vodnega in kopenskega življenja. Reka vključuje poplavna območja, močvirja in tropske gozdove, kar predstavlja ključni habitat za številne vrste.
 
 ## Ključne značilnosti
 - **Lega:** Severna Južna Amerika – predvsem Venezuela in vzhodna Kolumbija.
 - **Rečni sistem:** Glavna reka, številni pritoki, poplavna območja in mokrišča.
-- **Vodna stanja:** Sladkovodna z letnimi nihaji vodostaja zaradi deževne in sušne sezone.
+- **Vodna stanja:** Sladkovodna, z letnimi nihaji vodostaja zaradi deževne in sušne sezone.
 - **Podnebje:** Tropsko, z visoko vlago in toplimi temperaturami skozi vse leto.
-- **Rastlinstvo:** Obrečni gozdovi, poplavljena savana in gost tropični gozd ob rečnih bregovih.
+- **Rastlinstvo:** Obrečni gozdovi, poplavljena savana in gost tropski gozd ob rečnih bregovih.
 
 ## Ekološki pomen
-- **Žarišče biodiverzitete:** Dom amazonke, velikih vidr, anakond, kaimanov in številnih vrst rib, vključno s slavnim arapaimo.
+- **Žarišče biodiverzitete:** Dom rožnatih delfinov, velikih vidr, anakond, kaimanov in številnih vrst rib.
 - **Vzgojni prostori:** Poplavljeni gozdovi in mokrišča služijo kot legla in vzgojni prostori za ribe in vodne nevretenčarje.
 - **Shranjevanje ogljika:** Obrečni gozdovi in mokrišča vežejo velike količine ogljika.
 - **Uravnavanje voda:** Reka in njena poplavna območja pomembno vplivajo na regionalni vodni krog in razporeditev hranil.

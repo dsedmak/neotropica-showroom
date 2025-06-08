@@ -3,7 +3,7 @@ name: Noč v neotropih
 cover: ../../../assets/Habitati/night-in-the-neotropics/night-forest.jpg
 ---
 ## Pregled
-Nočni habitati so naravna okolja, ki oživijo po sončnem zahodu. Ti ekosistemi so oblikovani s temo in nižjimi temperaturami ter podpirajo vrste, ki so posebej prilagojene na življenje ponoči. Od gostih deževnih gozdov do puščavskih planjav – nočni habitati so bogati z biodiverziteto in edinstvenim vedenjem.
+Nočni habitati so naravna okolja, ki oživijo po sončnem zahodu. Ti ekosistemi so zaviti v temo in držijo nižjo temperaturami ter podpirajo vrste, ki so posebej prilagojene na življenje ponoči. Od gostih deževnih gozdov do puščavskih planjav – nočni habitati so bogati z biodiverziteto in edinstvenim vedenjem.
 
 ## Ključne značilnosti
 - **Svetlobne razmere:** Malo ali nič svetlobe; pomembno vlogo imajo mesečina, zvezdna svetloba in bioluminiscenca.

@@ -3,7 +3,7 @@ name: Krojaške mravlje
 cover: ../../../assets/Habitati/leafcutter-ants/mravlje.jpg
 ---
 ## Pregled
-Mravlje rezarice listov (rodova *Atta* in *Acromyrmex*) so izjemno organizirane družbene žuželke, znane po tem, da režejo in prenašajo koščke listov, ki jih uporabljajo za gojenje gliv – svoj edini vir hrane. So ključne za ekosisteme tropskih gozdov, kjer vplivajo na rastlinstvo, kroženje hranil in strukturo tal.
+Korajške mravlje (rodova *Atta* in *Acromyrmex*) so izjemno organizirane družbene žuželke, znane po tem, da režejo in prenašajo koščke listov, ki jih uporabljajo za gojenje gliv – svoj edini vir hrane. So ključne za ekosisteme tropskih gozdov, kjer vplivajo na rastlinstvo, kroženje hranil in strukturo tal.
 
 ## Ključne značilnosti
 - **Lega:** Tropska in subtropska območja Srednje in Južne Amerike – od juga ZDA do severne Argentine.
@@ -16,7 +16,7 @@ Mravlje rezarice listov (rodova *Atta* in *Acromyrmex*) so izjemno organizirane 
 - **Graditelji tal:** S svojimi kolonijami in rovi prezračujejo tla in izboljšujejo njihovo strukturo.
 - **Kroženje hranil:** Pomagajo pri razgradnji rastlinskega materiala in vračajo hranila v tla preko gliv.
 - **Oblikovanje vegetacije:** Njihova selektivna defolijacija vpliva na sestavo rastlinskih skupnosti.
-- **Simbiotski odnos:** Edinstven primer mutualizma med žuželkami in gojenimi glivami – primer "kmetijstva" v živalskem svetu.
+- **Simbiotski odnos:** Edinstven primer simbioze med žuželkami in gojenimi glivami – primer "kmetijstva" v živalskem svetu.
 
 ## Grožnje
 - **Uničevanje habitatov:** Krčenje gozdov in urbanizacija zmanjšujeta njihov naravni prostor.

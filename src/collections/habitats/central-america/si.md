@@ -3,14 +3,14 @@ name: Gozdovi srednje amerike
 cover: ../../../assets/Habitati/central-america/central-forest.jpg
 ---
 ## Pregled
-Gozdovi Srednje Amerike so bujni in izjemno raznoliki ekosistemi, ki se raztezajo od južnega Mehike skozi Gvatemalo, Honduras, Nikaragvo, Kostariko in Panamo. Ti gozdovi vključujejo nižinske deževne gozdove, meglen gozd (cloud forest) in sezonske suhe gozdove – vsak s svojo edinstveno kombinacijo vrst in podnebnih razmer.
+Gozdovi Srednje Amerike so bujni in izjemno raznoliki ekosistemi, ki se raztezajo od južnega Mehike skozi Gvatemalo, Honduras, Nikaragvo, Kostariko in Panamo. Ti gozdovi vključujejo nižinske deževne gozdove, oblačne gozdove (cloud forest) in sezonske suhe gozdove – vsak s svojo edinstveno kombinacijo vrst in podnebnih razmer.
 
 ## Ključne značilnosti
 - **Lega:** Srednja Amerika – na pacifiški in karibski strani.
 - **Vrste gozdov:** Tropski deževni gozdovi, megleni gozdovi (na višjih nadmorskih višinah) in tropski suhi gozdovi (pacifiška stran).
 - **Podnebje:** Toplo in vlažno skozi vse leto v nižinah; hladneje in megleno v višje ležečih predelih.
 - **Padavine:** Velike količine padavin, posebej na karibski strani; ponekod izrazite deževne in sušne sezone.
-- **Rastlinstvo:** Gosti krošnjasti sloji, vzpenjavke, epifiti, orhideje, palme in drevesa, kot sta mahagoni in ceiba.
+- **Rastlinstvo:** Gosti krošnjasti sloji, vzpenjalke, epifiti, orhideje, palme in drevesa, kot sta mahagoni in ceiba.
 
 ## Ekološki pomen
 - **Žarišče biodiverzitete:** Domovanje jaguarjev, vreščečih opic, tukanov, strupenih žabic in neštetih žuželk, rastlin in gliv.
@@ -20,7 +20,7 @@ Gozdovi Srednje Amerike so bujni in izjemno raznoliki ekosistemi, ki se raztezaj
 
 ## Grožnje
 - **Krčenje gozdov:** Zaradi paše živine, kmetijstva, sečnje in širjenja mest.
-- **Fragmentacija habitatov:** Razkosava življenjskih prostorov in selitvenih poti živali.
+- **Fragmentacija habitatov:** Razkosanje življenjskih prostorov in selitvenih poti živali.
 - **Podnebne spremembe:** Spreminjajo se padavinski vzorci in oblačnost, kar še posebej ogroža meglen gozd.
 - **Nedovoljena trgovina z živalmi:** Ogroža redke in endemične vrste.
 

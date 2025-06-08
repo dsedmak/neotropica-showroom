@@ -3,12 +3,12 @@ name: Oblačni gozd
 cover: ../../../assets/Habitati/cloud-forest/cloud-forest.jpg
 ---
 ## Pregled
-Tropski megleni gozdovi so edinstveni gorski ekosistemi, ki jih najdemo v visokogornih tropskih območjih, kjer stalna megla ohranja gozd hladnejši in vlažen. Ti gozdovi se odlikujejo po pogosti megli, obilici epifitov in visoki biotski raznovrstnosti, hkrati pa igrajo ključno vlogo pri uravnavanju vode in zagotavljanju habitata.
+Tropski oblačni gozdovi so edinstveni gorski ekosistemi, ki jih najdemo v visokogornih tropskih območjih, kjer stalna megla ohranja gozd hladnejši in vlažen. Ti gozdovi se odlikujejo po pogosti megli, obilici epifitov in visoki biotski raznovrstnosti, hkrati pa igrajo ključno vlogo pri uravnavanju vode in zagotavljanju habitata.
 
 ## Ključne značilnosti
 - **Lega:** Gorska območja v Srednji in Južni Ameriki, jugovzhodni Aziji in Afriki.
 - **Nadmorska višina:** Običajno med 1.000 in 3.500 metri nad morsko gladino.
-- **Podnebje:** Hladno in vlažno, z skoraj stalno meglo in visokimi padavinami.
+- **Podnebje:** Hladno in vlažno, s skoraj stalno meglo in visokimi padavinami.
 - **Rastlinstvo:** Gost gozd z drevesi, prekritimi z mahom, ter obilico epifitov, kot so orhideje, bromelije in praproti.
 - **Tla:** Bogata z organskimi snovmi, a pogosto plitva in kisla.
 
@@ -22,7 +22,7 @@ Tropski megleni gozdovi so edinstveni gorski ekosistemi, ki jih najdemo v visoko
 - **Krčenje gozdov:** Zaradi sečnje, kmetijstva in širjenja naselij.
 - **Podnebne spremembe:** Naraščanje temperatur in spremembe v vzorcih meglice ogrožajo občutljivo ravnovesje vlage.
 - **Fragmentacija habitatov:** Ceste in gradnja izolirajo populacije ter motijo ekosistemske procese.
-- **Invazivne vrste:** Neporodne rastline in živali lahko izpodrinejo avtohtone vrste in spremenijo dinamiko habitatov.
+- **Invazivne vrste:** Invazivne rastline in živali lahko izpodrinejo avtohtone vrste in spremenijo dinamiko habitatov.
 
 ## Ohranitveni ukrepi
 - **Zaščitena območja:** Ustanavljanje rezervatov in nacionalnih parkov v ključnih meglenih gozdovih.
