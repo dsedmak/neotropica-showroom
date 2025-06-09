@@ -1,6 +1,8 @@
 ---
 name: Peru Stream
 cover: ../../../assets/habitats/peru-stream/potocek.jpg
+room_placement: ../../../assets/habitats/peru-stream/potocek.jpg
+room: hallway
 ---
 ## Pregled
 Izviri reke Amazonke se nahajajo visoko v perujski Andih, kjer gorske reke začno svojo pot, ki se nato združijo v največji rečni sistem na svetu. Te neokrnjene visokogorske vode so ključne za ekologijo in hidrologijo amazonskega porečja.

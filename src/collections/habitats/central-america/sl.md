@@ -1,6 +1,8 @@
 ---
 name: Gozdovi srednje amerike
 cover: ../../../assets/habitats/central-america/central-forest.jpg
+room_placement: ../../../assets/habitats/central-america/central-forest.jpg
+room: main
 ---
 ## Pregled
 Gozdovi Srednje Amerike so bujni in izjemno raznoliki ekosistemi, ki se raztezajo od južnega Mehike skozi Gvatemalo, Honduras, Nikaragvo, Kostariko in Panamo. Ti gozdovi vključujejo nižinske deževne gozdove, oblačne gozdove (cloud forest) in sezonske suhe gozdove – vsak s svojo edinstveno kombinacijo vrst in podnebnih razmer.

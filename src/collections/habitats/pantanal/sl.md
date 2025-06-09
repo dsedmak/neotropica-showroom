@@ -1,6 +1,8 @@
 ---
 name: Pantanal
 cover: ../../../assets/habitats/pantanal/pantanal.jpg
+room_placement: ../../../assets/habitats/pantanal/pantanal.jpg
+room: hallway
 ---
 ## Pregled
 Pantanal je največje tropsko močvirje na svetu, ki se razprostira po Braziliji, Boliviji in Paragvaju. Zaradi sezonskih poplav in izjemne biotske raznovrstnosti je eden najpomembnejših in najbolj edinstvenih ekosistemov Južne Amerike.

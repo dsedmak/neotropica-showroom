@@ -1,6 +1,8 @@
 ---
 name: Krojaške mravlje
 cover: ../../../assets/habitats/leafcutter-ants/mravlje.jpg
+room_placement: ../../../assets/habitats/leafcutter-ants/mravlje.jpg
+room: upstairs
 ---
 ## Pregled
 Korajške mravlje (rodova *Atta* in *Acromyrmex*) so izjemno organizirane družbene žuželke, znane po tem, da režejo in prenašajo koščke listov, ki jih uporabljajo za gojenje gliv – svoj edini vir hrane. So ključne za ekosisteme tropskih gozdov, kjer vplivajo na rastlinstvo, kroženje hranil in strukturo tal.

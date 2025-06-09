@@ -1,6 +1,8 @@
 ---
 name: Orinoko
 cover: ../../../assets/habitats/orinoco/orinoco.jpg
+room_placement: ../../../assets/habitats/orinoco/orinoco.jpg
+room: main
 ---
 ## Pregled
 Reka Orinoko je ena najdaljših rek v Južni Ameriki, ki teče skozi Venezuelo in Kolumbijo. Ustvarja obsežen in kompleksen sladkovodni ekosistem, ki podpira bogato raznolikost vodnega in kopenskega življenja. Reka vključuje poplavna območja, močvirja in tropske gozdove, kar predstavlja ključni habitat za številne vrste.

@@ -1,6 +1,8 @@
 ---
 name: Koralni greben
 cover: ../../../assets/habitats/coral-reef/koralni-greben.jpg
+room_placement: ../../../assets/habitats/coral-reef/koralni-greben.jpg
+room: staircase
 ---
 ## Pregled
 Koralni grebeni so raznoliki morski ekosistemi, ki jih gradijo koralne kolonije, ki izločajo kalcijev karbonat. Najdemo jih v toplih, plitvih oceanih, kjer spadajo med najbolj biotsko raznovrstna in produktivna okolja na Zemlji.

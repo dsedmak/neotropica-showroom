@@ -1,5 +1,5 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
+import Layout from '../../../../layouts/Layout.astro';
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 
@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   return habitats.map((habitat) => {
     const [slug, language] = habitat.id.split('/');
     return {
-      params: { language, habitat: slug, slug },
+      params: { language, habitat: slug, slug, room: habitat.data.room },
       props: { habitat },
     };
   });
@@ -20,7 +20,7 @@ const { habitat } = Astro.props;
 const inhabitants = await getCollection('inhabitants', ({data: {habitat: {id}}}) => id === habitat.id);
 ---
 
-<Layout title={habitat.data.name}>
+<Layout title={habitat.data.name} showBackButton={true}>
   <a href='./about/'>
     <article>
       <header><h1 style='margin-block-end: 0;'>{habitat.data.name}</h1></header>

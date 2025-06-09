@@ -1,6 +1,8 @@
 ---
 name:   Življenje v krošnjah
 cover: ../../../assets/habitats/zivljenje-v-krosnjah/gozd.jpg
+room_placement: ../../../assets/habitats/zivljenje-v-krosnjah/gozd.jpg
+room: main
 ---
 ## Pregled  
 Krošnja amazonskega deževnega gozda, pogosto imenovana “življenje v krošnjah,” je ključni in kompleksen ekosistem, ki se razteza čez velik del amazonskega bazena. Podpira izjemno biotsko raznovrstnost in ima pomembno vlogo pri zdravju gozda in svetovnem podnebju.

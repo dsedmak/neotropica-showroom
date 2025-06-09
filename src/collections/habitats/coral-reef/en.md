@@ -1,6 +1,8 @@
 ---
 name: Coral reef
 cover: ../../../assets/habitats/coral-reef/koralni-greben.jpg
+room_placement: ../../../assets/habitats/coral-reef/koralni-greben.jpg
+room: staircase
 ---
 ## Overview
 Coral reefs are diverse marine ecosystems built by colonies of tiny coral animals that secrete calcium carbonate. Found in warm, shallow ocean waters, they are among the most biodiverse and productive ecosystems on Earth.

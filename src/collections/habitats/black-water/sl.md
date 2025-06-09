@@ -1,6 +1,8 @@
 ---
 name: Reke s črno vodo
 cover: ../../../assets/habitats/black-water/black-water.jpg
+room_placement: ../../../assets/habitats/black-water/black-water.jpg
+room: hallway
 ---
 ## Pregled
 Temne vode Amazonke, znane tudi kot črnovodne reke, predstavljajo poseben vodni ekosistem, ki ga zaznamuje čajasto obarvana, kisla in hranilno revna voda. Te reke imajo ključno vlogo pri ohranjanju amazonske biotske raznovrstnosti in podpirajo zelo specializirane oblike življenja.

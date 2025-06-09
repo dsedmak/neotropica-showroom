@@ -1,6 +1,8 @@
 ---
 name: Oblačni gozd
 cover: ../../../assets/habitats/cloud-forest/cloud-forest.jpg
+room_placement: ../../../assets/habitats/cloud-forest/cloud-forest.jpg
+room: main
 ---
 ## Pregled
 Tropski oblačni gozdovi so edinstveni gorski ekosistemi, ki jih najdemo v visokogornih tropskih območjih, kjer stalna megla ohranja gozd hladnejši in vlažen. Ti gozdovi se odlikujejo po pogosti megli, obilici epifitov in visoki biotski raznovrstnosti, hkrati pa igrajo ključno vlogo pri uravnavanju vode in zagotavljanju habitata.

@@ -11,6 +11,8 @@ const habitats = defineCollection({
     z.object({
       name: z.string(),
       cover: image(),
+      room_placement: image(),
+      room: z.string(),
     }),
 });
 

@@ -1,6 +1,8 @@
 ---
 name: Pantanal
 cover: ../../../assets/habitats/pantanal/pantanal.jpg
+room_placement: ../../../assets/habitats/pantanal/pantanal.jpg
+room: hallway
 ---
 ## Overview
 The Pantanal is the world’s largest tropical wetland, spanning parts of Brazil, Bolivia, and Paraguay. Known for its seasonal flooding and exceptional biodiversity, it is one of South America’s most important and unique ecosystems.

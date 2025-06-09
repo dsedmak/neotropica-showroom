@@ -1,6 +1,8 @@
 ---
 name: Blackwater rivers
 cover: ../../../assets/habitats/black-water/black-water.jpg
+room_placement: ../../../assets/habitats/black-water/black-water.jpg
+room: hallway
 ---
 ## Overview
 The dark waters of the Amazon, also known as blackwater rivers, are a distinctive type of aquatic ecosystem characterized by their tea-colored, acidic, and nutrient-poor water. These rivers play a crucial role in Amazonian biodiversity and support highly specialized life forms.

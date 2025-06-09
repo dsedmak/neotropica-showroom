@@ -1,0 +1,78 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const habitats = await getCollection('habitats');
+  
+  // Get unique rooms and languages
+  const rooms = [...new Set(habitats.map(habitat => habitat.data.room))];
+  const languages = [...new Set(habitats.map(habitat => habitat.id.split('/')[1]))];
+  
+  // Create all possible room/language combinations
+  return rooms.flatMap(room => {
+    return languages.map(language => {
+      const roomHabitats = habitats.filter(h => 
+        h.data.room === room && 
+        h.id.split('/')[1] === language
+      );
+      
+      return {
+        params: { language, room: room.toLowerCase() },
+        props: { 
+          room,
+          habitats: roomHabitats
+        },
+      };
+    });
+  });
+}
+
+const { room, habitats } = Astro.props;
+---
+
+<Layout title={room}>
+  
+  <div class='habitats-list'>
+    {habitats.map((habitat, index) => (
+      <a href={`./${habitat.id.split('/')[0]}/`}>
+        <article>
+          <header>
+            <hgroup>
+              <h3>{habitat.data.name}</h3>
+            </hgroup>
+          </header>
+          <Image 
+            src={habitat.data.room_placement} 
+            alt={`${habitat.data.name} placement in ${room}`} 
+            width={300} 
+            height={200} 
+            loading={index < 4 ? 'eager' : 'lazy'}
+          />
+        </article>
+      </a>
+    ))}
+  </div>
+
+  <style>
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    hgroup {
+      margin-block-end: 0;
+    }
+
+    img {
+      width: 100%;
+    }
+
+    .habitats-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+      gap: 1rem;
+    }
+  </style>
+</Layout>

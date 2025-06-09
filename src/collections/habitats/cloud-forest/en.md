@@ -1,6 +1,8 @@
 ---
 name: Cloud forest
 cover: ../../../assets/habitats/cloud-forest/cloud-forest.jpg
+room_placement: ../../../assets/habitats/cloud-forest/cloud-forest.jpg
+room: main
 ---
 ## Overview
 Tropical cloud forests are unique montane ecosystems found in high-altitude tropical regions where persistent cloud cover keeps the forest cool and moist. These forests are characterized by frequent fog, abundant epiphytes, and high biodiversity, playing a crucial role in water regulation and habitat provision.

@@ -1,6 +1,8 @@
 ---
 name: Reka Amazonka
 cover: ../../../assets/habitats/amazonka/amazonka.jpg
+room_placement: ../../../assets/habitats/amazonka/amazonka.jpg
+room: main
 ---
 ## Pregled
 Reka Amazonka je največja reka na svetu po količini izteka vode in ena najdaljših rek na Zemlji. Teče skozi srce amazonskega deževnega gozda in ustvarja izjemno bogat in raznolik sladkovodni ekosistem. Reka in njena ogromna porečja nudijo ključne habitate za nešteto vrst in podpirajo preživetje številnih domorodnih in lokalnih skupnosti.

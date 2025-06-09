@@ -1,5 +1,5 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
+import Layout from '../../../../layouts/Layout.astro';
 import { Image } from 'astro:assets';
 import { getCollection, render } from 'astro:content';
 
@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   return habitats.map((habitat) => {
     const [slug, language] = habitat.id.split('/');
     return {
-      params: { language, habitat: slug, slug },
+      params: { language, habitat: slug, slug, room: habitat.data.room },
       props: { habitat },
     };
   });
