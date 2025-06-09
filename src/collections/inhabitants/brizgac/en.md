@@ -1,7 +1,7 @@
 ---
 common_name: Egg-splashing tetra
 latin_name: Copella arnoldi
-cover: ../../../assets/Habitati/amazonka/brizgac.jpg
+cover: ../../../assets/habitats/amazonka/brizgac.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

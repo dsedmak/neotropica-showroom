@@ -1,7 +1,7 @@
 ---
 common_name: Arapaima
 latin_name: Arapaima gigas
-cover: ../../../assets/Habitati/amazonka/arapaima.jpg
+cover: ../../../assets/habitats/amazonka/arapaima.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

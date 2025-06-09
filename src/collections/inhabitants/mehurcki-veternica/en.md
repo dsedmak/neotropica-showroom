@@ -1,7 +1,7 @@
 ---
 common_name: Bubble-tip sea anemone
 latin_name: Entacmaea quadricolor
-cover: ../../../assets/Habitati/predator-lagoon/anemona.jpg
+cover: ../../../assets/habitats/predator-lagoon/anemona.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indo-Pacific – from the Red Sea to Micronesia.  

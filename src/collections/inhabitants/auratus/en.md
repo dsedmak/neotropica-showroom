@@ -1,7 +1,7 @@
 ---
 common_name: Blue-black poison dart frog
 latin_name: Dendrobates auratus
-cover: ../../../assets/Habitati/zivljenje-v-krosnjah/auratus.jpg
+cover: ../../../assets/habitats/zivljenje-v-krosnjah/auratus.jpg
 habitat: zivljenje-v-krosnjah/en
 ---
 ## Distribution  

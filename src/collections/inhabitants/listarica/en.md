@@ -1,7 +1,7 @@
 ---
 common_name: Leaf fish
 latin_name: Monocirrhus polyacanthus
-cover: ../../../assets/Habitati/black-water/listarica.jpg
+cover: ../../../assets/habitats/black-water/listarica.jpg
 habitat: black-water/en
 ---
 **Distribution:**  

@@ -1,7 +1,7 @@
 ---
 common_name: Dwarf suckerfish
 latin_name: Macrotocinclus affinis
-cover: ../../../assets/Habitati/pantanal/affinis.jpg
+cover: ../../../assets/habitats/pantanal/affinis.jpg
 habitat: pantanal/en
 ---
 **Distribution:**  

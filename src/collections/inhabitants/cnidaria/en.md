@@ -1,7 +1,7 @@
 ---
 common_name: Cnidarians 
 latin_name: Cnidaria
-cover: ../../../assets/Habitati/coral-reef/cnidaria.jpg
+cover: ../../../assets/habitats/coral-reef/cnidaria.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** All oceans of the world – from shallow coastal waters to the deep sea.

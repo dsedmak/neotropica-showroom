@@ -1,7 +1,7 @@
 ---
 common_name: Spotted Pike Characin
 latin_name: Boulengerella maculata
-cover: ../../../assets/Habitati/orinoco/pegasta-maculata.jpg
+cover: ../../../assets/habitats/orinoco/pegasta-maculata.jpg
 habitat: orinoco/en
 ---
 **Distribution:** Tropical South America – mainly in the Amazon Basin, in countries such as Brazil, Colombia, and Peru.  

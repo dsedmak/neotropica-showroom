@@ -1,7 +1,7 @@
 ---
 common_name: Rumeni kirurg
 latin_name: Zebrasoma flavescens
-cover: ../../../assets/Habitati/coral-reef/rumeni-kirurg.jpg
+cover: ../../../assets/habitats/coral-reef/rumeni-kirurg.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Tropical Pacific – primarily around Hawaii, the western coast of the USA, and Micronesia.

@@ -1,7 +1,7 @@
 ---
 common_name: Ocellate river stingray
 latin_name: Potamotrygon motoro
-cover: ../../../assets/Habitati/orinoco/okati-bic.jpg
+cover: ../../../assets/habitats/orinoco/okati-bic.jpg
 habitat: amazonka/en
 ---
 ## Distribution  
@@ -25,5 +25,5 @@ Currently classified as Data Deficient (DD) on the IUCN Red List, meaning there 
 - Has one or more serrated venomous barbs on its tail used for defense. The sting can be very painful.  
 - It is viviparous – females give birth to live young.
 
-![bic-usta](../../../assets/Habitati/orinoco/bic-usta.jpg)
+![bic-usta](../../../assets/habitats/orinoco/bic-usta.jpg)
 

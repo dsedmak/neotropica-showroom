@@ -1,7 +1,7 @@
 ---
 common_name: Bristlenose Catfish
 latin_name: Ancistrus sp. (Peru)
-cover: ../../../assets/Habitati/peru-stream/ancistrus.jpg
+cover: ../../../assets/habitats/peru-stream/ancistrus.jpg
 habitat: peru-stream/en
 ---
 **Distribution:**  

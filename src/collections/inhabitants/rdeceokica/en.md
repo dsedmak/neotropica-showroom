@@ -1,7 +1,7 @@
 ---
 common_name: Red-eyed tree frog
 latin_name: Agalychnis callidryas
-cover: ../../../assets/Habitati/night-in-the-neotropics/rdeceokica.jpg
+cover: ../../../assets/habitats/night-in-the-neotropics/rdeceokica.jpg
 habitat: night-in-the-neotropics/en
 ---
 **Distribution:** Central America – from southern Mexico to northern Colombia.  

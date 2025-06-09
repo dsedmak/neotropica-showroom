@@ -3,6 +3,7 @@ import '../styles/pico.slate.css';
 import { Image } from 'astro:assets';
 import SlovenianFlagImage from '../assets/flags/si.svg';
 import EnglishFlagImage from '../assets/flags/uk.svg';
+import ReturnIcon from '../assets/return.svg';
 import { pwaInfo } from 'virtual:pwa-info';
 import { pwaAssetsHead } from 'virtual:pwa-assets/head';
 
@@ -51,18 +52,21 @@ function getLocalizedPath(locale: string) {
       nav img {
         width: 100%;
       }
+      #back {
+        filter: invert(100%);
+      }
     </style>
     <footer class="container-fluid">
       {
         showBackButton && (
           <a href="../">
-            <button style="width: 100%;">Back</button>
+            <button style="width: 100%;"><Image id="back" src={ReturnIcon} alt="Back" /></button>
           </a>
         )
       }
       <nav>
         <ul>
-          <li><a href={getLocalizedPath('si')}><Image src={SlovenianFlagImage} alt="Slovenian Flag" width={100} /></a></li>
+          <li><a href={getLocalizedPath('sl')}><Image src={SlovenianFlagImage} alt="Slovenian Flag" width={100} /></a></li>
           <li><a href={getLocalizedPath('en')}><Image src={EnglishFlagImage} alt="English Flag" width={100} /></a></li>
         </ul>
       </nav>

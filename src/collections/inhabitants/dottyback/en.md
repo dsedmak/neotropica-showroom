@@ -1,7 +1,7 @@
 ---
 common_name: Royal dottyback
 latin_name: Pictichromis paccagnellae
-cover: ../../../assets/Habitati/coral-reef/dottyback.jpg
+cover: ../../../assets/habitats/coral-reef/dottyback.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Western Pacific Ocean – Philippines, Indonesia, Papua New Guinea.

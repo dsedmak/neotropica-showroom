@@ -1,7 +1,7 @@
 ---
 common_name: Altifrons earth-eater
 latin_name: Geophagus altifrons
-cover: ../../../assets/Habitati/amazonka/geophagus.jpg
+cover: ../../../assets/habitats/amazonka/geophagus.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

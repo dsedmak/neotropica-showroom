@@ -1,7 +1,7 @@
 ---
 common_name: Chocolate whiptail catfish
 latin_name: Rineloricaria lanceolata
-cover: ../../../assets/Habitati/peru-stream/lanceolata.jpg
+cover: ../../../assets/habitats/peru-stream/lanceolata.jpg
 habitat: peru-stream/en
 ---
 **Distribution:**  

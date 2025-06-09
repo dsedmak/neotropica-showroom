@@ -1,7 +1,7 @@
 ---
 common_name: Bleeding Heart Tetra
 latin_name: Hyphessobrycon erythrostigma
-cover: ../../../assets/Habitati/peru-stream/rdecelisa.jpg
+cover: ../../../assets/habitats/peru-stream/rdecelisa.jpg
 habitat: peru-stream/en
 ---
 **Distribution:**  

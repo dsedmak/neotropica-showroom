@@ -1,7 +1,7 @@
 ---
 common_name: Golden poison dart frog
 latin_name: Phyllobates terribilis
-cover: ../../../assets/Habitati/zivljenje-v-krosnjah/teribilis.jpg
+cover: ../../../assets/habitats/zivljenje-v-krosnjah/teribilis.jpg
 habitat: zivljenje-v-krosnjah/en
 ---
 ## Distribution  

@@ -1,7 +1,7 @@
 ---
 common_name: Yellowtail wrasse
 latin_name: Coris gaimard
-cover: ../../../assets/Habitati/predator-lagoon/coris.jpg
+cover: ../../../assets/habitats/predator-lagoon/coris.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indian and Pacific Oceans – from the Red Sea to Hawaii.

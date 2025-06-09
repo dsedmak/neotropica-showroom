@@ -1,7 +1,7 @@
 ---
 common_name: Clownfish
 latin_name: Amphiprion ocellaris
-cover: ../../../assets/Habitati/coral-reef/klovncek.jpg
+cover: ../../../assets/habitats/coral-reef/klovncek.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Tropical Indo-Pacific – coral reefs from India to Australia.

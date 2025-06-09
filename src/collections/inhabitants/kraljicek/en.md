@@ -1,7 +1,7 @@
 ---
 common_name: Banggai Cardinalfish
 latin_name: Pterapogon kauderni
-cover: ../../../assets/Habitati/coral-reef/kraljicek.jpg
+cover: ../../../assets/habitats/coral-reef/kraljicek.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Endemic to the Banggai Islands in Indonesia.

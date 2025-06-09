@@ -1,6 +1,6 @@
 ---
 name: Night in the Neotropics
-cover: ../../../assets/Habitati/night-in-the-neotropics/night-forest.jpg
+cover: ../../../assets/habitats/night-in-the-neotropics/night-forest.jpg
 ---
 ## Overview
 Nocturnal habitats are natural environments that come alive after sunset. These ecosystems are shaped by darkness and cooler temperatures, supporting species specially adapted to life at night. From dense rainforests to desert plains, nocturnal habitats are rich in biodiversity and unique behaviors.

@@ -1,7 +1,7 @@
 ---
 common_name: Coral grouper
 latin_name: Cephalopholis miniata
-cover: ../../../assets/Habitati/predator-lagoon/kirnja.jpg
+cover: ../../../assets/habitats/predator-lagoon/kirnja.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Red Sea and Indian Ocean to the western Pacific.

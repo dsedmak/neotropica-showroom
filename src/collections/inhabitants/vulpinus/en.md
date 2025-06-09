@@ -1,7 +1,7 @@
 ---
 common_name: Foxface Rabbitfish
 latin_name: Siganus vulpinus
-cover: ../../../assets/Habitati/coral-reef/vulpinus.jpg
+cover: ../../../assets/habitats/coral-reef/vulpinus.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Western Pacific Ocean – coral reefs from the Philippines to Australia.

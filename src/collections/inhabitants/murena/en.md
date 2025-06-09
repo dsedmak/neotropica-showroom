@@ -1,7 +1,7 @@
 ---
 common_name: Snoqflake moray eel
 latin_name: Echidna nebulosa
-cover: ../../../assets/Habitati/predator-lagoon/murena.jpg
+cover: ../../../assets/habitats/predator-lagoon/murena.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indian and Pacific Oceans – from East Africa to Hawaii.

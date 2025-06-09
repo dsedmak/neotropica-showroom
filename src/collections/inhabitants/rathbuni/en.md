@@ -1,7 +1,7 @@
 ---
 common_name: Red-finned tetra
 latin_name: Aphyocharax rathbuni
-cover: ../../../assets/Habitati/pantanal/rathbuni.jpg
+cover: ../../../assets/habitats/pantanal/rathbuni.jpg
 habitat: pantanal/en
 ---
 **Distribution:**  

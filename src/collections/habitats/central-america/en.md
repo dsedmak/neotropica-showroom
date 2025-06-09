@@ -1,6 +1,6 @@
 ---
 name: Central America forest
-cover: ../../../assets/Habitati/central-america/central-forest.jpg
+cover: ../../../assets/habitats/central-america/central-forest.jpg
 ---
 ## Overview
 The forests of Central America are lush, biodiverse ecosystems stretching from southern Mexico through Guatemala, Honduras, Nicaragua, Costa Rica, and Panama. These forests include lowland rainforests, cloud forests, and seasonal dry forests, each with a unique mix of species and climate conditions.

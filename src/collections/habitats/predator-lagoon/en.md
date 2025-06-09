@@ -1,6 +1,6 @@
 ---
 name: Predator lagoon
-cover: ../../../assets/Habitati/predator-lagoon/predator-laguna.jpg
+cover: ../../../assets/habitats/predator-lagoon/predator-laguna.jpg
 ---
 ## Overview
 Predator lagoons in coral reefs are sheltered areas where larger carnivorous species thrive. These lagoons form in the protected zones behind reef crests and often serve as hunting grounds for reef predators. Despite the calm appearance, they are dynamic environments where predator-prey interactions shape the ecological balance.

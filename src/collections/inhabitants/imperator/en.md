@@ -1,7 +1,7 @@
 ---
 common_name: Emperor angelfish
 latin_name: Pomacanthus imperator
-cover: ../../../assets/Habitati/predator-lagoon/odrasel-emperator.jpg
+cover: ../../../assets/habitats/predator-lagoon/odrasel-emperator.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indo-Pacific – from the Red Sea to Pitcairn Island.
@@ -16,7 +16,7 @@ habitat: predator-lagoon/en
 
 **Fun Facts:**
 - Juveniles and adults have completely different color patterns.
-![Baby emperor](../../../assets/Habitati/predator-lagoon/baby-emperator.jpg)
+![Baby emperor](../../../assets/habitats/predator-lagoon/baby-emperator.jpg)
 
 - Adults display striking blue and yellow stripes – considered one of the most beautiful angelfish species.
 

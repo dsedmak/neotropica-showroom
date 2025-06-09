@@ -1,7 +1,7 @@
 ---
 common_name: Yellow-spotted river turtle
 latin_name: Podocnemis unifilis
-cover: ../../../assets/Habitati/orinoco/recna-zelva.jpg
+cover: ../../../assets/habitats/orinoco/recna-zelva.jpg
 habitat: orinoco/en
 ---
 ## Distribution  

@@ -1,7 +1,7 @@
 ---
 common_name: Royal plevo
 latin_name: Panaque nigrolineatus
-cover: ../../../assets/Habitati/amazonka/kraljevi-som.jpg
+cover: ../../../assets/habitats/amazonka/kraljevi-som.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  
@@ -21,7 +21,7 @@ Not specifically evaluated on the IUCN Red List.
 
 **Interesting facts:**  
 - Possesses strong teeth adapted for scraping wood, which is rare among fish.  
-![som-zobki](../../../assets/Habitati/amazonka/som-zobki.jpg)
+![som-zobki](../../../assets/habitats/amazonka/som-zobki.jpg)
 
 - Its gut hosts special symbiotic bacteria capable of digesting cellulose.  
 - The skin on the dorsal side is transformed into armored plates that protect it from predator attacks.  

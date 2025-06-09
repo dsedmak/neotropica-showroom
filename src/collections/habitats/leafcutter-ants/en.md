@@ -1,6 +1,6 @@
 ---
 name: Leafcutter ants
-cover: ../../../assets/Habitati/leafcutter-ants/mravlje.jpg
+cover: ../../../assets/habitats/leafcutter-ants/mravlje.jpg
 ---
 ## Overview
 Leaf-cutter ants (genera *Atta* and *Acromyrmex*) are highly organized social insects, known for cutting and carrying pieces of leaves to cultivate fungus – their sole food source. They play a vital role in tropical ecosystems by shaping vegetation, cycling nutrients, and modifying soil structure.

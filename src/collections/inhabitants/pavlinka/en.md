@@ -1,7 +1,7 @@
 ---
 common_name: Severum cichlid
 latin_name: Heros severus
-cover: ../../../assets/Habitati/orinoco/pavlinka.jpg
+cover: ../../../assets/habitats/orinoco/pavlinka.jpg
 habitat: orinoco/en
 ---
 ## Distribution  

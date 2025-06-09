@@ -1,7 +1,7 @@
 ---
 common_name: Amazon milk frog
 latin_name: Trachycephalus resinifictrix
-cover: ../../../assets/Habitati/night-in-the-neotropics/mlecna.jpg
+cover: ../../../assets/habitats/night-in-the-neotropics/mlecna.jpg
 habitat: night-in-the-neotropics/en
 ---
 **Distribution:** Northwestern Amazon – Brazil, Peru, Colombia.  

@@ -1,7 +1,7 @@
 ---
 common_name: Eyelash viper
 latin_name: Bothriechis schlegelii
-cover: ../../../assets/Habitati/cloud-forest/trepalnicarka.jpg
+cover: ../../../assets/habitats/cloud-forest/trepalnicarka.jpg
 habitat: cloud-forest/en
 --- 
 **Distribution:** Central and South America – from southern Mexico to northern Peru.  

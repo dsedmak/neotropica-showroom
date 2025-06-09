@@ -1,6 +1,6 @@
 ---
 name: Peru Stream
-cover: ../../../assets/Habitati/peru-stream/potocek.jpg
+cover: ../../../assets/habitats/peru-stream/potocek.jpg
 ---
 ## Overview
 The sources of the Amazon River are located high in the Peruvian Andes, where mountain streams begin their journey, eventually joining the largest river system in the world. These pristine high-altitude waters are crucial for the ecology and hydrology of the Amazon basin.

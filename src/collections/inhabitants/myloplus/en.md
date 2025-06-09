@@ -1,7 +1,7 @@
 ---
 common_name: Black-banded myloplus
 latin_name: Myloplus schomburgkii
-cover: ../../../assets/Habitati/amazonka/myloplus.jpg
+cover: ../../../assets/habitats/amazonka/myloplus.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

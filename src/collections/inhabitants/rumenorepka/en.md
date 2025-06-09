@@ -1,7 +1,7 @@
 ---
 common_name: Yellowtail damselfish
 latin_name: Chrysiptera parasema
-cover: ../../../assets/Habitati/coral-reef/rumenorepka.jpg
+cover: ../../../assets/habitats/coral-reef/rumenorepka.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Western Pacific Ocean – from Indonesia to Micronesia.

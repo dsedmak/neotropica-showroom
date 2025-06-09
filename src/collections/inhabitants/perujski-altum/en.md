@@ -1,7 +1,7 @@
 ---
 common_name: Peruvian altum
 latin_name: Altum peruensis
-cover: ../../../assets/Habitati/amazonka/perujski-altum.jpg
+cover: ../../../assets/habitats/amazonka/perujski-altum.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

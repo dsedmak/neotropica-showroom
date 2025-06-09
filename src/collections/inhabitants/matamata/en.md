@@ -1,7 +1,7 @@
 ---
 common_name: Matamata
 latin_name: Chelus fimbriata
-cover: ../../../assets/Habitati/black-water/matamata.jpg
+cover: ../../../assets/habitats/black-water/matamata.jpg
 habitat: black-water/en
 ---
 **Distribution:**  

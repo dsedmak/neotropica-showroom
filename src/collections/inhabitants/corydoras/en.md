@@ -1,7 +1,7 @@
 ---
 common_name: Weitzman’s Cory
 latin_name: Corydoras weitzmani
-cover: ../../../assets/Habitati/peru-stream/corydoras.jpg
+cover: ../../../assets/habitats/peru-stream/corydoras.jpg
 habitat: peru-stream/en
 ---
 **Distribution:**  

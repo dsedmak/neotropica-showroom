@@ -1,7 +1,7 @@
 ---
 common_name: Dwarf lionfish
 latin_name: Dendrochirus brachypterus
-cover: ../../../assets/Habitati/predator-lagoon/plamenka.jpg
+cover: ../../../assets/habitats/predator-lagoon/plamenka.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indo-Pacific – from East Africa to Japan.

@@ -1,7 +1,7 @@
 ---
 common_name: Brown anole
 latin_name: Anolis sagrei
-cover: ../../../assets/Habitati/zivljenje-v-krosnjah/anolis.jpg
+cover: ../../../assets/habitats/zivljenje-v-krosnjah/anolis.jpg
 habitat: zivljenje-v-krosnjah/en
 ---
 ## Distribution  

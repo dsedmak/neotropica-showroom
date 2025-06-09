@@ -1,6 +1,6 @@
 ---
 name: Orinoco
-cover: ../../../assets/Habitati/orinoco/orinoco.jpg
+cover: ../../../assets/habitats/orinoco/orinoco.jpg
 ---
 ## Overview
 The Orinoco River is one of the longest rivers in South America, flowing through Venezuela and Colombia. It forms a vast and complex freshwater ecosystem that supports a rich diversity of aquatic and terrestrial life. The river basin includes floodplains, swamps, and tropical forests, making it a vital habitat for many species.

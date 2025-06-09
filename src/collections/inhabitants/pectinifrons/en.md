@@ -1,7 +1,7 @@
 ---
 common_name: White-spotted talking catfish
 latin_name: Agamyxis pectinifrons
-cover: ../../../assets/Habitati/black-water/somic.jpg
+cover: ../../../assets/habitats/black-water/somic.jpg
 habitat: black-water/en
 ---
 **Distribution:**  

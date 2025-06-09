@@ -1,6 +1,6 @@
 ---
 name: Amazon river
-cover: ../../../assets/Habitati/amazonka/amazonka.jpg
+cover: ../../../assets/habitats/amazonka/amazonka.jpg
 ---
 ## Overview
 The Amazon River is the largest river by discharge volume in the world and one of the longest rivers on Earth. It flows through the heart of the Amazon rainforest, creating an incredibly rich and diverse freshwater ecosystem. The river and its vast basin provide critical habitats for countless species and support the livelihoods of many indigenous and local communities.

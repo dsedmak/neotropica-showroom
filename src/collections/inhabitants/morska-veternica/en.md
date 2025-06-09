@@ -1,7 +1,7 @@
 ---
 common_name: Magnificent sea anemone
 latin_name: Heteractis magnifica
-cover: ../../../assets/Habitati/predator-lagoon/veternica.jpg
+cover: ../../../assets/habitats/predator-lagoon/veternica.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indo-Pacific – from East Africa to Tahiti.  

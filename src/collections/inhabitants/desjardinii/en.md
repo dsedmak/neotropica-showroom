@@ -1,7 +1,7 @@
 ---
 common_name: Desjardin’s sailfin tang
 latin_name: Zebrasoma desjardinii
-cover: ../../../assets/Habitati/coral-reef/desjardinii.jpg
+cover: ../../../assets/habitats/coral-reef/desjardinii.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Indian Ocean – along the coasts of East Africa, the Red Sea, and the Maldives.

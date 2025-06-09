@@ -27,7 +27,7 @@ export default defineConfig({
         theme_color: '#13171f',
         background_color: '#13171f',
         display: 'standalone',
-        start_url: '/neotropica-showroom/si/coral-reef/'
+        start_url: '/neotropica-showroom/sl/coral-reef/'
       },
 
       workbox: {
@@ -49,8 +49,8 @@ export default defineConfig({
     }),
   ],
   i18n: {
-    locales: ['si', 'en', 'de', 'it'],
-    defaultLocale: 'si',
+    locales: ['sl', 'en'],
+    defaultLocale: 'sl',
     routing: {
       prefixDefaultLocale: true,
       redirectToDefaultLocale: false,

@@ -1,7 +1,7 @@
 ---
 common_name: Redtooth triggerfish
 latin_name: Odonus niger
-cover: ../../../assets/Habitati/predator-lagoon/niger.jpg
+cover: ../../../assets/habitats/predator-lagoon/niger.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Indo-Pacific – from East Africa to Hawaii.  

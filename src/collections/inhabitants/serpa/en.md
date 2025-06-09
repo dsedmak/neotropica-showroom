@@ -1,7 +1,7 @@
 ---
 common_name: Serpae tetra
 latin_name: Hyphessobrycon eques
-cover: ../../../assets/Habitati/pantanal/serpa.jpeg
+cover: ../../../assets/habitats/pantanal/serpa.jpeg
 habitat: pantanal/en
 ---
 **Distribution:**  

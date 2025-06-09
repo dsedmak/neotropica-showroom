@@ -1,7 +1,7 @@
 ---
 common_name: Neon tetra
 latin_name: Paracheirodon innesi
-cover: ../../../assets/Habitati/amazonka/neonka.jpg
+cover: ../../../assets/habitats/amazonka/neonka.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

@@ -1,7 +1,7 @@
 ---
 common_name: Red-and-blue Peruvian tetra
 latin_name: Hyphessobrycon margitae
-cover: ../../../assets/Habitati/peru-stream/perujska-tetra.png
+cover: ../../../assets/habitats/peru-stream/perujska-tetra.png
 habitat: peru-stream/en
 ---
 **Distribution:**  

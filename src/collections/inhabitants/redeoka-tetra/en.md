@@ -1,7 +1,7 @@
 ---
 common_name: Red-eye tetra
 latin_name: Moenkhausia sanctaefilomenae
-cover: ../../../assets/Habitati/pantanal/rdeceoka.jpg
+cover: ../../../assets/habitats/pantanal/rdeceoka.jpg
 habitat: pantanal/en
 ---
 **Distribution:**  

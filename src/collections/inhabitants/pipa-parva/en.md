@@ -1,7 +1,7 @@
 ---
 common_name: Dwarf surinami toad
 latin_name: Pipa parva
-cover: ../../../assets/Habitati/central-america/pipa.jpg
+cover: ../../../assets/habitats/central-america/pipa.jpg
 habitat: central-america/en
 ---
 **Distribution:** Northern South America – Venezuela, Colombia.  

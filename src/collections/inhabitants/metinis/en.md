@@ -1,7 +1,7 @@
 ---
 common_name: Spotted metynnis
 latin_name: Metynnis maculatus
-cover: ../../../assets/Habitati/amazonka/metinis.jpeg
+cover: ../../../assets/habitats/amazonka/metinis.jpeg
 habitat: amazonka/en
 --- 
 **Distribution:**  

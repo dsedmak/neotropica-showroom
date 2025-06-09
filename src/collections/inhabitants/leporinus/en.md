@@ -1,7 +1,7 @@
 ---
 common_name: Striped leporinus
 latin_name: Leporinus affinis
-cover: ../../../assets/Habitati/amazonka/leporinus.jpg
+cover: ../../../assets/habitats/amazonka/leporinus.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  

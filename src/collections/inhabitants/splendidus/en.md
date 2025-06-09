@@ -1,7 +1,7 @@
 ---
 common_name: Mandarinfish (Red mandarin)
 latin_name: Synchiropus splendidus
-cover: ../../../assets/Habitati/coral-reef/mandarincek.jpg
+cover: ../../../assets/habitats/coral-reef/mandarincek.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Western Pacific Ocean – from the Philippines to Australia.

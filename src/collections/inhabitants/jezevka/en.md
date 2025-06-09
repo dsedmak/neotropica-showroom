@@ -1,7 +1,7 @@
 ---
 common_name: Porcupinefish
 latin_name: Diodon holocanthus
-cover: ../../../assets/Habitati/predator-lagoon/jezevka.jpg
+cover: ../../../assets/habitats/predator-lagoon/jezevka.jpg
 habitat: predator-lagoon/en
 ---
 **Distribution:** Tropical oceans worldwide.

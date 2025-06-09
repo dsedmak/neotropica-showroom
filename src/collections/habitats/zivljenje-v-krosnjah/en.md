@@ -1,6 +1,6 @@
 ---
 name: Life in the treetops
-cover: ../../../assets/Habitati/zivljenje-v-krosnjah/gozd.jpg
+cover: ../../../assets/habitats/zivljenje-v-krosnjah/gozd.jpg
 ---
 ## Overview  
 The Amazon rainforest canopy, often called the “treetops,” is a vital and complex ecosystem stretching across much of the Amazon Basin. It supports extraordinary biodiversity and plays a crucial role in the health of the rainforest and the global climate.

@@ -1,7 +1,7 @@
 ---
 common_name: Green swordtail
 latin_name: Xiphophorus hellerii
-cover: ../../../assets/Habitati/central-america/mecek.jpg
+cover: ../../../assets/habitats/central-america/mecek.jpg
 habitat: central-america/en
 ---
 **Distribution:** Central America – from southern Mexico to Honduras.  

@@ -1,7 +1,7 @@
 ---
 common_name: Green basilisk
 latin_name: Basiliscus plumifrons
-cover: ../../../assets/Habitati/central-america/bazilisk.jpg
+cover: ../../../assets/habitats/central-america/bazilisk.jpg
 habitat: central-america/en
 ---
 **Distribution:** Central America – mainly in Costa Rica, Nicaragua, and Panama.  

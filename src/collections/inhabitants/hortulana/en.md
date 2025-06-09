@@ -1,7 +1,7 @@
 ---
 common_name: Emerald tree boa
 latin_name: Corallus hortulana
-cover: ../../../assets/Habitati/night-in-the-neotropics/hortulana.jpg
+cover: ../../../assets/habitats/night-in-the-neotropics/hortulana.jpg
 habitat: night-in-the-neotropics/en
 ---
 **Distribution:** Amazon Basin – Brazil, Peru, Colombia, Ecuador, Venezuela.  

@@ -1,7 +1,7 @@
 ---
 common_name: Black ghost knifefish
 latin_name: Apteronotus albifrons
-cover: ../../../assets/Habitati/amazonka/nozarica.jpg
+cover: ../../../assets/habitats/amazonka/nozarica.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  
@@ -21,7 +21,7 @@ Not assessed on the IUCN Red List. Wild populations are currently not threatened
 
 **Interesting facts:**  
 - Has the ability for electrical orientation – it emits weak electric fields to detect its surroundings and prey even in complete darkness. The electric organs in these fish evolved from nerve cells called electrocytes. 
-![adaptacija](../../../assets/Habitati/amazonka/adaptacija.png)
+![adaptacija](../../../assets/habitats/amazonka/adaptacija.png)
  
 - The nickname “black ghost” comes from its elegant, almost black body and its characteristic undulating swimming with the caudal fin.  
 - It has white markings on its tail and sometimes on its head, making it easily recognizable.  

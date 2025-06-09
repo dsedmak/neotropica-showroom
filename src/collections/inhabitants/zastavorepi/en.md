@@ -1,7 +1,7 @@
 ---
 common_name: Flagtail prochilodus
 latin_name: Semaprochilodus taeniurus
-cover: ../../../assets/Habitati/amazonka/zastavorepi.jpg
+cover: ../../../assets/habitats/amazonka/zastavorepi.jpg
 habitat: amazonka/en
 --- 
 **Distribution:**  
