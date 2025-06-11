@@ -1,7 +1,7 @@
 ---
 name: Pantanal
 cover: ../../../assets/habitats/pantanal/pantanal.jpg
-room_placement: ../../../assets/habitats/pantanal/pantanal.jpg
+room_placement: ../../../assets/habitats/pantanal/placement.jpg
 room: hallway
 ---
 ## Overview

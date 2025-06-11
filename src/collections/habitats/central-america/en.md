@@ -1,7 +1,7 @@
 ---
 name: Central America forest
 cover: ../../../assets/habitats/central-america/central-forest.jpg
-room_placement: ../../../assets/habitats/central-america/central-forest.jpg
+room_placement: ../../../assets/habitats/central-america/placement.jpg
 room: main
 ---
 ## Overview

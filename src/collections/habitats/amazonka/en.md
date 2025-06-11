@@ -1,7 +1,7 @@
 ---
 name: Amazon river
 cover: ../../../assets/habitats/amazonka/amazonka.jpg
-room_placement: ../../../assets/habitats/amazonka/amazonka.jpg
+room_placement: ../../../assets/habitats/amazonka/placement.jpg
 room: main
 ---
 ## Overview

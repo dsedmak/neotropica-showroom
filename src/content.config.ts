@@ -13,6 +13,7 @@ const habitats = defineCollection({
       cover: image(),
       room_placement: image(),
       room: z.string(),
+      room_enabled: z.boolean().default(true),
     }),
 });
 

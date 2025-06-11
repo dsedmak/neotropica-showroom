@@ -3,6 +3,7 @@ name: Laguna predatorjev
 cover: ../../../assets/habitats/predator-lagoon/predator-laguna.jpg
 room_placement: ../../../assets/habitats/predator-lagoon/predator-laguna.jpg
 room: staircase
+room_enabled: false
 ---
 ## Pregled
 Lagune plenilcev v koralnih grebenih so zaščitena območja, kjer uspevajo večje mesojede vrste. Te lagune nastanejo za grebenskimi pregradami in pogosto služijo kot lovišča za plenilce. Kljub mirnemu videzu gre za dinamična okolja, kjer interakcije med plenilci in plenom oblikujejo ekološko ravnotežje.

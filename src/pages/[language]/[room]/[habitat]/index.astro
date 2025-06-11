@@ -20,7 +20,7 @@ const { habitat } = Astro.props;
 const inhabitants = await getCollection('inhabitants', ({data: {habitat: {id}}}) => id === habitat.id);
 ---
 
-<Layout title={habitat.data.name} showBackButton={true}>
+<Layout title={habitat.data.name} showBackButton={habitat.data.room_enabled}>
   <a href='./about/'>
     <article>
       <header><h1 style='margin-block-end: 0;'>{habitat.data.name}</h1></header>

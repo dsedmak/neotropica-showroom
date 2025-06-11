@@ -1,7 +1,7 @@
 ---
 name: Blackwater rivers
 cover: ../../../assets/habitats/black-water/black-water.jpg
-room_placement: ../../../assets/habitats/black-water/black-water.jpg
+room_placement: ../../../assets/habitats/black-water/placement.jpg
 room: hallway
 ---
 ## Overview

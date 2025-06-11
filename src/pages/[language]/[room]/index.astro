@@ -35,7 +35,7 @@ const { room, habitats } = Astro.props;
 <Layout title={room}>
   
   <div class='habitats-list'>
-    {habitats.map((habitat, index) => (
+    {habitats.filter(habitat => habitat.data.room_enabled).map((habitat, index) => (
       <a href={`./${habitat.id.split('/')[0]}/`}>
         <article>
           <header>
@@ -46,8 +46,7 @@ const { room, habitats } = Astro.props;
           <Image 
             src={habitat.data.room_placement} 
             alt={`${habitat.data.name} placement in ${room}`} 
-            width={300} 
-            height={200} 
+            width={650} 
             loading={index < 4 ? 'eager' : 'lazy'}
           />
         </article>

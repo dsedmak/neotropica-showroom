@@ -1,7 +1,7 @@
 ---
 name: Peru Stream
 cover: ../../../assets/habitats/peru-stream/potocek.jpg
-room_placement: ../../../assets/habitats/peru-stream/potocek.jpg
+room_placement: ../../../assets/habitats/peru-stream/placement.jpg
 room: hallway
 ---
 ## Pregled

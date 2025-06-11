@@ -1,7 +1,7 @@
 ---
 name: Cloud forest
 cover: ../../../assets/habitats/cloud-forest/cloud-forest.jpg
-room_placement: ../../../assets/habitats/cloud-forest/cloud-forest.jpg
+room_placement: ../../../assets/habitats/cloud-forest/placement.jpg
 room: main
 ---
 ## Overview

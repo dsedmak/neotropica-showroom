@@ -1,7 +1,7 @@
 ---
 name:   Življenje v krošnjah
 cover: ../../../assets/habitats/zivljenje-v-krosnjah/gozd.jpg
-room_placement: ../../../assets/habitats/zivljenje-v-krosnjah/gozd.jpg
+room_placement: ../../../assets/habitats/zivljenje-v-krosnjah/placement.jpg
 room: main
 ---
 ## Pregled  
