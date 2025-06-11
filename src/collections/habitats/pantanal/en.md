@@ -33,5 +33,4 @@ The Pantanal is the world’s largest tropical wetland, spanning parts of Brazil
 - **Scientific Monitoring:** Research on species, hydrology, and climate helps guide management and restoration.
 - **Community Engagement:** Local stakeholders are increasingly involved in conservation and land-use planning.
 
-## Conclusion
 The Pantanal is a globally significant wetland that supports a vast array of life and essential ecological functions. Preserving its natural cycles and rich biodiversity is critical for environmental health, climate resilience, and local livelihoods.

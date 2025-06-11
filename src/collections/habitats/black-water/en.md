@@ -32,5 +32,4 @@ The dark waters of the Amazon, also known as blackwater rivers, are a distinctiv
 - **Traditional Knowledge:** Indigenous stewardship supports sustainable practices and ecosystem health.
 - **Environmental Policy:** Regulation of mining, forestry, and water use helps preserve blackwater systems.
 
-## Conclusion
 The dark waters of the Amazon are one of the most mysterious and ecologically rich aquatic environments on Earth. Protecting these fragile blackwater systems is vital for maintaining regional biodiversity, supporting indigenous cultures, and ensuring long-term ecological resilience.

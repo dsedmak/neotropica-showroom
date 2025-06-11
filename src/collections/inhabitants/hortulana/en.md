@@ -1,5 +1,5 @@
 ---
-common_name: Emerald tree boa
+common_name: Amazon tree boa
 latin_name: Corallus hortulana
 cover: ../../../assets/habitats/night-in-the-neotropics/hortulana.jpg
 habitat: night-in-the-neotropics/en
@@ -15,8 +15,8 @@ habitat: night-in-the-neotropics/en
 **Conservation status:** Least Concern (IUCN).  
 
 **Interesting facts:**  
-Has a vibrant emerald green body with distinctive white markings in a zigzag pattern.  
+- The colour ranges from grey, red and also green.  
 
-Hunts prey by ambush at night, using highly sensitive heat sensors.  
+- Hunts prey by ambush at night, using highly sensitive heat sensors.  
 
-Non-venomous; kills prey by constriction.
+- Non-venomous; kills prey by constriction.

@@ -32,5 +32,4 @@ The sources of the Amazon River are located high in the Peruvian Andes, where mo
 - **Indigenous Conservation:** Support for indigenous rights and traditional environmental stewardship.
 - **Legislative Measures:** National and international initiatives regulate mining, deforestation, and infrastructure development.
 
-## Conclusion
 The high-altitude streams of southern Peru that form the source of the Amazon are vital ecosystems of global importance. Protecting them preserves not only life throughout the Amazon basin but also the ancient landscapes and cultures that depend on them.

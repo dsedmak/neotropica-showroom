@@ -1,6 +1,6 @@
 ---
-common_name: Dwarf lionfish
-latin_name: Dendrochirus brachypterus
+common_name: Clearfin lionfish
+latin_name: Pterois radiata
 cover: ../../../assets/habitats/predator-lagoon/plamenka.jpg
 habitat: predator-lagoon/en
 ---
@@ -8,7 +8,7 @@ habitat: predator-lagoon/en
 
 **Habitat:** Shallow reefs, coral formations, sandy bottoms.
 
-**Size:** Up to 17 cm.
+**Size:** Up to 24 cm.
 
 **Diet:** Carnivorous. Feeds on small fish and crustaceans.
 

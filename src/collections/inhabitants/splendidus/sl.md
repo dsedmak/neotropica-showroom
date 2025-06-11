@@ -1,7 +1,7 @@
 ---
 common_name: Rdeči mandarinček
-latin_name: Synchiropus splendidus
-cover: ../../../assets/habitats/coral-reef/mandarincek.jpg
+latin_name: Synchiropus sycorax
+cover: ../../../assets/habitats/coral-reef/sycorax.jpg
 habitat: coral-reef/sl
 ---
 **Razširjenost:** Zahodni Tihi ocean – od Filipinov do Avstralije.
@@ -15,6 +15,6 @@ habitat: coral-reef/sl
 **Status ohranjenosti:** Ni posebej ocenjena na IUCN rdečem seznamu.
 
 **Zanimivosti:**  
-- Ima izjemno barvito kožo – modra, oranžna in zelena v valovitih vzorcih.  
-- Ima sluznato, a netoksično obrambo – neprijetna za plenilce.  
+- Je izjemne rdeče obarvanosti.  
+- Izloča plenilcem neprijetno sluz, zaradi katere ga izbljuvajo.  
 - Občutljiva na spremembe in zahteva ustrezno mikrofauno v akvarijih.

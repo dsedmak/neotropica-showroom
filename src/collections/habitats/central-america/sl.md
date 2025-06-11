@@ -32,5 +32,4 @@ Gozdovi Srednje Amerike so bujni in izjemno raznoliki ekosistemi, ki se raztezaj
 - **Projektna pogozdovanja:** Obnova degradiranih območij in ustvarjanje bioloških koridorjev.
 - **Vloga domorodnih skupnosti:** Ključni varuhi in upravljavci gozdov, ki prispevajo k ohranitvi ekosistemov.
 
-## Zaključek
 Gozdovi Srednje Amerike so živahni ekosistemi, polni življenja in skrivnosti. Od soparnih deževnih gozdov do meglenih gorskih višav so ključni za regionalno biodiverziteto, podnebno stabilnost in kulturno dediščino. Njihovo varovanje je skupna odgovornost z globalnim pomenom.

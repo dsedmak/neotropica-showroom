@@ -31,5 +31,4 @@ Leaf-cutter ants (genera *Atta* and *Acromyrmex*) are highly organized social in
 - **Reducing Pesticide Use:** Promoting eco-friendly pest management methods.
 - **Public Education:** Raising awareness about their ecological role and contribution to biodiversity.
 
-## Conclusion
 Leaf-cutter ants are essential ecosystem engineers in tropical forests. Their complex behaviors and symbiosis with fungi represent one of nature’s most fascinating cooperative systems. Protecting these ants also supports the health and resilience of entire forest ecosystems.

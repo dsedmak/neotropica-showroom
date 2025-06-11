@@ -31,6 +31,5 @@ Krošnja amazonskega deževnega gozda, pogosto imenovana “življenje v krošnj
 - **Trajnostne prakse:** Spodbujanje selektivne sečnje in agrogozdarstva za zmanjševanje izgube krošenj.  
 - **Raziskave in spremljanje:** Uporaba žerjavov za krošnje, dronov in ekspedicij za plezanje za preučevanje in spremljanje biotske raznovrstnosti.  
 - **Vključenost skupnosti:** Domorodne in lokalne skupnosti igrajo ključno vlogo pri ohranitvi in trajnostnem upravljanju.
-
-## Zaključek  
+ 
 Krošnje amazonskega deževnega gozda so svetovno pomemben ekosistem, bogat z biotsko raznovrstnostjo in ekološkimi storitvami. Zaščita krošenj je bistvena za ohranjanje zdravja gozda, podpiranje neštetih vrst in boj proti podnebnim spremembam.

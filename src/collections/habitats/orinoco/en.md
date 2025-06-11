@@ -33,5 +33,4 @@ The Orinoco River is one of the longest rivers in South America, flowing through
 - **Community Engagement:** Involving indigenous and local communities in conservation and sustainable management.
 - **Research and Monitoring:** Scientific studies to understand ecosystem dynamics and impacts.
 
-## Conclusion
 The Orinoco River is a lifeline for countless species and human communities alike. Protecting its diverse habitats ensures the health of an essential freshwater system that supports biodiversity, sustains livelihoods, and regulates climate in northern South America.

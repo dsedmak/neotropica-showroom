@@ -1,5 +1,5 @@
 ---
-common_name: Cnidarians 
+common_name: Corals 
 latin_name: Cnidaria
 cover: ../../../assets/habitats/coral-reef/cnidaria.jpg
 habitat: coral-reef/en
@@ -14,7 +14,6 @@ habitat: coral-reef/en
 
 **Conservation Status:** A diverse group with varying statuses; some coral species are threatened.
 
-**Fun Facts:**  
-- Includes corals, jellyfish, sea anemones, and hydras.  
+**Fun Facts:**    
 - Characterized by radial symmetry and a nerve net without a central nervous system.  
 - Reef-building corals form coral reefs – one of Earth’s most vital ecosystems.

@@ -1,6 +1,6 @@
 ---
-common_name: Pritlikava plamenka
-latin_name: Dendrochirus brachypterus
+common_name: Prosojnoplavuta plamenka
+latin_name: Pterois radiata
 cover: ../../../assets/habitats/predator-lagoon/plamenka.jpg
 habitat: predator-lagoon/sl
 ---
@@ -8,7 +8,7 @@ habitat: predator-lagoon/sl
 
 **Habitat:** Plitvi grebeni, koralne tvorbe, peščena dna.
 
-**Velikost:** Do 17 cm.
+**Velikost:** Do 26 cm.
 
 **Prehrana:** Mesojed. Hrani se z majhnimi ribami in raki.
 

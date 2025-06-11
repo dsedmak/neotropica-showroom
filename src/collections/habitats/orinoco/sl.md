@@ -33,5 +33,4 @@ Reka Orinoko je ena najdaljših rek v Južni Ameriki, ki teče skozi Venezuelo i
 - **Vključevanje skupnosti:** Sodelovanje domorodnih in lokalnih skupnosti pri ohranjanju in trajnostnem upravljanju.
 - **Raziskave in spremljanje:** Znanstvene študije za razumevanje dinamike ekosistema in vplivov.
 
-## Zaključek
 Reka Orinoko je življenjska žila za nešteto vrst in človeške skupnosti. Zaščita njenih raznolikih habitatov zagotavlja zdravje bistvenega sladkovodnega sistema, ki podpira biodiverziteto, ohranja preživetje ljudi in uravnava podnebje v severni Južni Ameriki.

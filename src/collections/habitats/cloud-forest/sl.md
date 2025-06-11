@@ -32,5 +32,4 @@ Tropski oblačni gozdovi so edinstveni gorski ekosistemi, ki jih najdemo v visok
 - **Vključevanje skupnosti:** Sodelovanje lokalnih in domorodnih skupnosti pri ohranjanju in trajnostni rabi.
 - **Raziskave in spremljanje:** Znanstvene študije za razumevanje ekologije meglenih gozdov in spremljanje sprememb skozi čas.
 
-## Zaključek
 Tropski megleni gozdovi so vitalni ekosistemi, ki podpirajo bogato biodiverziteto in zagotavljajo ključne ekološke storitve, kot so uravnavanje vode in stabilizacija podnebja. Zaščita teh občutljivih gozdov je ključna za ohranjanje regionalnega okolja in odpornosti.

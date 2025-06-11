@@ -32,5 +32,4 @@ Temne vode Amazonke, znane tudi kot črnovodne reke, predstavljajo poseben vodni
 - **Tradicionalno znanje:** Avtohtono upravljanje prispeva k trajnostnim praksam in zdravju ekosistema.
 - **Okoljska politika:** Urejanje rudarjenja, gozdarstva in rabe vode prispeva k ohranjanju črnovodnih sistemov.
 
-## Zaključek
 Temne vode Amazonke so eden najbolj skrivnostnih in ekološko bogatih vodnih okolij na Zemlji. Za ohranjanje regionalne biotske raznovrstnosti, podporo avtohtonim kulturam in dolgoročno ekološko stabilnost je ključno, da zaščitimo te občutljive črnovodne sisteme.

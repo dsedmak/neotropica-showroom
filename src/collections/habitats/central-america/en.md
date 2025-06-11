@@ -32,5 +32,4 @@ The forests of Central America are lush, biodiverse ecosystems stretching from s
 - **Reforestation Projects:** Focus on restoring degraded areas and creating biological corridors.
 - **Indigenous Stewardship:** Indigenous communities play a vital role in forest management and protection.
 
-## Conclusion
 The forests of Central America are vibrant ecosystems full of life and mystery. From steamy rainforests to misty mountaintops, they are essential for regional biodiversity, climate regulation, and cultural heritage. Their protection is a shared responsibility with global significance.

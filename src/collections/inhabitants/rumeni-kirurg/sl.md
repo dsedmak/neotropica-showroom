@@ -1,5 +1,5 @@
 ---
-common_name: Yellow tang
+common_name: Rumeni kirurg
 latin_name: Zebrasoma flavescens
 cover: ../../../assets/habitats/coral-reef/rumeni-kirurg.jpg
 habitat: coral-reef/sl

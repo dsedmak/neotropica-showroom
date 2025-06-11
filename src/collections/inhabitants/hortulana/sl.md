@@ -1,5 +1,5 @@
 ---
-common_name: Amazonska smaragdna drevesna boa
+common_name: Amazonski drevesni udav
 latin_name: Corallus hortulana
 cover: ../../../assets/habitats/night-in-the-neotropics/hortulana.jpg
 habitat: night-in-the-neotropics/sl
@@ -15,8 +15,8 @@ habitat: night-in-the-neotropics/sl
 **Status ohranjenosti:** Least Concern (IUCN).  
 
 **Zanimivosti:**  
-Ima živahno smaragdno zeleno telo s prepoznavnimi belimi lisami v obliki cikcak črte.  
+- Znotraj vrste obstaja veliko barvnih različič, ki so lahko rdeče, sive, rjave in celo zelenkaste barve.  
 
-Ponoči preži na plen iz zasede – uporablja izredno občutljive toplotne senzorje.  
+- Ponoči preži na plen iz zasede – uporablja izredno občutljive toplotne senzorje.  
 
-Kljub impozantnemu videzu je nestrupena in plen ubije z omejevanjem (konstikcijo).
+- Kljub impozantnemu videzu je nestrupena in plen ubije z omejevanjem (konstikcijo).

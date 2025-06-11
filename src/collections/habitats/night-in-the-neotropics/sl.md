@@ -24,5 +24,4 @@ Nočni habitati so naravna okolja, ki oživijo po sončnem zahodu. Ti ekosistemi
 - **Kamuflaža in tiho gibanje:** Mnoge vrste imajo temnejšo ali nevtralno obarvanost in se premikajo zelo tiho, da se izognejo zaznavi.
 - **Vedenjski ritmi:** Cirkadiani cikli so obrnjeni ali močno usklajeni z luninimi in sezonskimi spremembami.
 
-## Zaključek
 Nočni habitati razkrivajo skriti obraz narave – svet tišine, senc in neopaznega gibanja. Ti ekosistemi so ključni za globalno biodiverziteto in ponujajo izjemen vpogled v prilagoditve, ki omogočajo življenje v temi – ne le možno, temveč uspešno.

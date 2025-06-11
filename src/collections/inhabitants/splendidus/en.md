@@ -1,7 +1,7 @@
 ---
 common_name: Mandarinfish (Red mandarin)
-latin_name: Synchiropus splendidus
-cover: ../../../assets/habitats/coral-reef/mandarincek.jpg
+latin_name: Synchiropus sycorax
+cover: ../../../assets/habitats/coral-reef/sycorax.jpg
 habitat: coral-reef/en
 ---
 **Distribution:** Western Pacific Ocean – from the Philippines to Australia.
@@ -15,6 +15,6 @@ habitat: coral-reef/en
 **Conservation Status:** Not specifically evaluated on the IUCN Red List.
 
 **Fun Facts:**  
-- Features incredibly vibrant skin patterns – blue, orange, and green in wavy designs.  
+- Features incredibly vibrant red skin patterns  
 - Secretes a slimy, non-toxic coating that deters predators.  
 - Sensitive to environmental changes and requires a well-established microfauna in aquariums.

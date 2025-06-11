@@ -37,5 +37,4 @@ Koralni grebeni so raznoliki morski ekosistemi, ki jih gradijo koralne kolonije,
 - **Raziskave in spremljanje:** Znanstvene študije spremljajo zdravje grebenov, biotsko raznovrstnost in okoljske pritiske.
 - **Sodelovanje skupnosti:** Lokalno upravljanje in trajnostni turizem prispevata k zaščiti grebenov.
 
-## Zaključek
 Koralni grebeni so ključni morski ekosistemi, ki nudijo zavetje, hrano in zaščito številnim morskih vrstam ter milijonom ljudi. Njihovo varovanje in obnova sta bistvena za ohranjanje svetovne biotske raznovrstnosti, prehranske varnosti in odpornosti na podnebne spremembe.

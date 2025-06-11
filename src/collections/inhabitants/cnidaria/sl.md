@@ -1,5 +1,5 @@
 ---
-common_name: Ožigalkarji
+common_name: Korale
 latin_name: Cnidaria
 cover: ../../../assets/habitats/coral-reef/cnidaria.jpg
 habitat: coral-reef/sl
@@ -14,8 +14,7 @@ habitat: coral-reef/sl
 
 **Status ohranjenosti:** Velika skupina z različnimi statusi; nekateri koralni organizmi ogroženi.
 
-**Zanimivosti:**  
-- Skupina zajema korale, meduze, morski klobučnjaki, vetrnice in hidre.  
+**Zanimivosti:**    
 - Imajo radialno simetrijo in živčni mrežni sistem brez centralnega živčevja.  
 - Koralni žarniki tvorijo grebene – enega najpomembnejših ekosistemov na Zemlji.
 

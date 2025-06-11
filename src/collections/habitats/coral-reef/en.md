@@ -37,5 +37,4 @@ Coral reefs are diverse marine ecosystems built by colonies of tiny coral animal
 - **Research and Monitoring:** Scientific studies track reef health, biodiversity, and environmental stressors.
 - **Community Involvement:** Local stewardship and sustainable tourism help protect reef ecosystems.
 
-## Conclusion
 Coral reefs are vital marine ecosystems that provide shelter, food, and protection to countless marine species and millions of people. Preserving and restoring these fragile habitats is essential for global biodiversity, food security, and climate resilience.

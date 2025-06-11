@@ -33,5 +33,4 @@ Pantanal je največje tropsko močvirje na svetu, ki se razprostira po Braziliji
 - **Znanstveno spremljanje:** Raziskave o vrstah, hidrologiji in podnebju usmerjajo upravljanje in obnovo.
 - **Vključevanje skupnosti:** Lokalni prebivalci igrajo vse pomembnejšo vlogo pri varovanju narave in načrtovanju rabe zemljišč.
 
-## Zaključek
 Pantanal je mokrišče svetovnega pomena, ki podpira izjemno raznoliko življenje in ključne ekološke funkcije. Ohranjanje njegovih naravnih ciklov in bogate biotske raznovrstnosti je ključno za okoljsko zdravje, podnebno odpornost in blaginjo lokalnih skupnosti.

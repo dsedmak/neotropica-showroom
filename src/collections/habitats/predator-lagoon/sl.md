@@ -33,5 +33,4 @@ Lagune plenilcev v koralnih grebenih so zaščitena območja, kjer uspevajo več
 - **Obnova grebenov:** Obnavljanje strukture grebenov za zagotavljanje zavetja plenilcem in plenu.
 - **Izobraževanje in ozaveščanje:** Spodbujanje razumevanja ekološke vloge plenilcev za zmanjšanje strahu in preganjanja.
 
-## Zaključek
 Lagune plenilcev so ključni del koralnih grebenov in imajo osrednjo vlogo pri ohranjanju ekološkega ravnotežja. Zaščita teh habitatov ne zagotavlja le preživetja ikoničnih vrst, temveč tudi dolgoročno odpornost celotnega grebenskega sistema.

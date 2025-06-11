@@ -32,5 +32,4 @@ Reka Amazonka je največja reka na svetu po količini izteka vode in ena najdalj
 - **Vključevanje skupnosti:** Aktivno sodelovanje domorodnih ljudstev in lokalnih skupnosti pri ohranjanju in upravljanju.
 - **Znanstvene raziskave:** Neprestane študije za spremljanje zdravja ekosistema in razvoj prilagodljivih strategij ohranjanja.
 
-## Zaključek
 Reka Amazonka je življenjska žila za biotsko raznovrstnost in kulturne skupnosti po vsej Južni Ameriki. Zaščita njenih kompleksnih in dinamičnih habitatov je ključna za ohranjanje ekološkega ravnovesja, podpore preživetju ljudi in spopadanje z globalnimi okoljskimi izzivi.

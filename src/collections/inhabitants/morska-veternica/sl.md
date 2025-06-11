@@ -1,5 +1,5 @@
 ---
-common_name: Morska veternica
+common_name: Veličastna morska veternica
 latin_name: Heteractis magnifica
 cover: ../../../assets/habitats/predator-lagoon/veternica.jpg
 habitat: predator-lagoon/sl

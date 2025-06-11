@@ -31,5 +31,4 @@ Korajške mravlje (rodova *Atta* in *Acromyrmex*) so izjemno organizirane družb
 - **Zmanjšanje uporabe pesticidov:** Spodbujanje ekoloških metod varstva rastlin.
 - **Ozaveščanje:** Izobraževanje o njihovi vlogi v ekosistemu in pomenu za biodiverziteto.
 
-## Zaključek
 Mravlje rezarice listov so ključni inženirji ekosistema tropskih gozdov. Njihovo zapleteno vedenje in simbioza z glivami predstavljata enega najbolj fascinantnih primerov sodelovanja v naravi. Njihova zaščita pomeni tudi zaščito širšega gozdnega ekosistema.

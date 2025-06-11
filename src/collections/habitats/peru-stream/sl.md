@@ -1,5 +1,5 @@
 ---
-name: Peru Stream
+name: Perujski potoček
 cover: ../../../assets/habitats/peru-stream/potocek.jpg
 room_placement: ../../../assets/habitats/peru-stream/placement.jpg
 room: hallway
@@ -32,6 +32,5 @@ Izviri reke Amazonke se nahajajo visoko v perujski Andih, kjer gorske reke začn
 - **Staroselsko varovanje narave:** Podpora pravicam staroselcev in tradicionalnim praksam ohranjanja okolja.
 - **Zakonodajni ukrepi:** Nacionalne in mednarodne pobude za regulacijo rudarjenja, krčenja gozdov in razvoja infrastrukture.
 
-## Zaključek
 Visokogorski potoki južnega Peruja, ki tvorijo izvir Amazonke, so ključni ekosistemi s svetovnim pomenom. Njihovo varovanje ne ohranja le življenja v celotnem amazonskem bazenu, temveč tudi starodavne pokrajine in kulture, ki so od njih odvisne.
 

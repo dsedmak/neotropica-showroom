@@ -24,5 +24,4 @@ Nocturnal habitats are natural environments that come alive after sunset. These 
 - **Camouflage & Stealth:** Many species have dark or muted colors and move quietly to avoid detection.
 - **Behavioral Rhythms:** Circadian cycles are reversed or highly tuned to lunar and seasonal changes.
 
-## Conclusion
 Nocturnal habitats reveal a hidden side of nature—one defined by silence, shadows, and stealth. These ecosystems are vital to global biodiversity and offer a fascinating look at the adaptations that make life after dark not only possible, but thriving.
