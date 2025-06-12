@@ -27,7 +27,7 @@ export default defineConfig({
         theme_color: '#13171f',
         background_color: '#13171f',
         display: 'standalone',
-        start_url: '/neotropica-showroom/sl/hallway/'
+        start_url: '/neotropica-showroom/sl/main/'
       },
 
       workbox: {
