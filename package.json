@@ -17,7 +17,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.16.15"
+    "astro": "^5.18.1"
   },
   "devDependencies": {
     "@vite-pwa/assets-generator": "^1.0.2",
